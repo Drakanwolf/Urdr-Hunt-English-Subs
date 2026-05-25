@@ -4,7 +4,7 @@ A project to provide quality English subtitles for the Mobile Suit Gundam film "
 ## Production Notes:
 This was a side project completed over a weekend after discovering that an SRT of the official Japanese subtitles had been uploaded to various subtitle sites.
 
-To be clear, I do not speak any Japanese beyond the two semesters I took in college a couple of decades ago. But I DO have a lot of experience working localizing both direct and machine-translated content for English speaking audiences. As such, I began this project by producing a rough, machine-translated version of the official Japanese subtitles. Then, I went through and heavily edited the subtitles to reflect modern English standards and to overall make the dialigue more easily understood and reflective of the overall intent of the text.
+To be clear, I do not speak any Japanese beyond the two semesters I took in college a couple of decades ago. But I DO have a lot of experience localizing both direct and machine-translated content for English speaking audiences. As such, I began this project by producing a rough, machine-translated version of the official Japanese subtitles. Then, I went through and heavily edited the subtitles to reflect modern English standards and to make the dialigue more easily understood and reflective of the overall intent of the text.
 
 From there, I re-timed the subtitles to match with the available raw versions of the video curently available (specifically the version uploaded by UNEXT).
 
