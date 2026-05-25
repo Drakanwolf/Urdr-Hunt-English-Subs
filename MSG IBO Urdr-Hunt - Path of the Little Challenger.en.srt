@@ -1,0 +1,5431 @@
+0.2
+00:00:21,500 --> 00:00:25,200
+Venus
+Radonitsa Colony
+
+1
+00:00:43,367 --> 00:00:46,912
+(Coronal)
+What is it that people desire?
+
+2
+00:00:48,038 --> 00:00:50,749
+Within the ordinary lives
+we lived until yesterday...
+
+3
+00:00:50,833 --> 00:00:55,003
+When suddenly, an unexpected door of fate
+appears before us...
+
+4
+00:00:55,087 --> 00:00:57,756
+(Impact sound)
+
+5
+00:01:00,133 --> 00:01:02,970
+(Explosion)
+
+6
+00:01:19,152 --> 00:01:21,738
+(Wistario)
+Why our town… why…!?
+
+7
+00:01:21,822 --> 00:01:23,073
+(Girl crying)
+
+8
+00:01:23,156 --> 00:01:24,449
+(Demnar)
+This is...
+
+9
+00:01:24,533 --> 00:01:27,035
+It appears to be
+a Mobile Suit attack…
+
+10
+00:01:27,119 --> 00:01:27,953
+(Wistario)
+A Mobile Suit!?
+
+11
+00:01:32,207 --> 00:01:33,834
+(Demnar)
+Young master! This way!
+
+12
+00:01:33,917 --> 00:01:34,960
+(Wistario)
+Right!
+
+13
+00:01:36,044 --> 00:01:39,047
+(Demnar)
+The basic controls are the same as
+the one you usually use...
+
+14
+00:01:39,131 --> 00:01:40,924
+the Hloekk Graze.
+
+15
+00:01:41,008 --> 00:01:44,219
+However, the Ahab Reactor output
+is more than double.
+
+16
+00:01:44,678 --> 00:01:48,557
+We will support you from here as well,
+but please be careful.
+
+17
+00:01:48,640 --> 00:01:49,808
+(Wistario)
+Thanks.
+
+18
+00:01:50,309 --> 00:01:51,351
+Hm?
+
+19
+00:01:52,019 --> 00:01:55,647
+Gramps, what does “Hajiroboshi” mean?
+
+20
+00:01:55,731 --> 00:01:58,442
+(Demnar)
+That is this machine’s pet name.
+
+21
+00:02:02,571 --> 00:02:03,780
+(Wistario)
+I see.
+
+22
+00:02:03,864 --> 00:02:04,698
+Then…
+
+23
+00:02:05,782 --> 00:02:08,285
+Let’s go, Hajiroboshi.
+
+24
+00:02:13,916 --> 00:02:16,960
+(Coronal)
+When a light...
+
+25
+00:02:17,044 --> 00:02:22,257
+capable of changing your life,
+your future, everything...
+
+26
+00:02:22,883 --> 00:02:24,092
+appears before you…
+
+27
+00:02:32,517 --> 00:02:37,397
+I’ll never forgive you
+for scarring my town!
+
+28
+00:02:41,234 --> 00:02:44,946
+(Coronal)
+My name is Coronal Xhosa.
+
+29
+00:02:45,030 --> 00:02:46,949
+Do you possess a Ring?
+
+30
+00:02:47,282 --> 00:02:48,116
+A Ring?
+
+31
+00:02:48,200 --> 00:02:49,242
+Ah...
+
+32
+00:02:49,618 --> 00:02:51,119
+You mean…
+
+33
+00:02:53,246 --> 00:02:54,289
+this?
+
+34
+00:02:54,373 --> 00:02:55,415
+(Coronal)
+Heh…
+
+35
+00:02:57,542 --> 00:02:59,461
+Graturatio.
+
+36
+00:02:59,544 --> 00:03:01,046
+Congratulations.
+
+37
+00:03:03,548 --> 00:03:07,260
+You have earned the right
+to participate in the “Urdr-Hunt.”
+
+38
+00:03:14,142 --> 00:03:17,312
+(Coronal)
+Guide and navigator,
+Coronal Xhosa.
+
+39
+00:03:17,980 --> 00:03:21,066
+One who opens doors
+and leads others onward…
+
+40
+00:03:21,149 --> 00:03:22,067
+However...
+
+41
+00:03:22,609 --> 00:03:27,197
+looking back now, perhaps the door of fate
+had opened before me as well...
+
+42
+00:03:27,280 --> 00:03:30,075
+just as equally…
+
+43
+00:03:30,951 --> 00:03:34,079
+I doubt I will ever forget
+that day.
+
+44
+00:03:34,955 --> 00:03:35,998
+Yes.
+
+45
+00:03:36,415 --> 00:03:40,502
+The day I met
+Wistario Afam.
+
+46
+00:03:42,421 --> 00:03:44,423
+{\an8}♪～
+
+46.2
+00:03:52,000 --> 00:03:55,000
+Mobile Suit Gundam: Iron-Blooded Orphans
+Urdr-Hunt – Path of the Little Challenger
+
+47
+00:03:55,267 --> 00:03:57,894
+{\an8}♪ The signal that it had begun
+
+48
+00:03:57,978 --> 00:04:02,023
+♪ I can’t remember it at all
+
+49
+00:04:02,107 --> 00:04:07,904
+♪ Before I knew it,
+I had already been running forever
+
+50
+00:04:07,988 --> 00:04:10,574
+♪ So much it makes me want to cry
+
+51
+00:04:10,657 --> 00:04:15,829
+♪ I realized people
+are never truly equal
+
+52
+00:04:15,912 --> 00:04:20,041
+♪ Reality is cruel
+
+53
+00:04:20,125 --> 00:04:26,757
+♪ Beaten down,
+aching with unbearable loneliness
+
+54
+00:04:26,840 --> 00:04:32,763
+♪ Even so,
+my legs still keep moving
+
+55
+00:04:32,846 --> 00:04:37,017
+♪ So no matter how far
+
+56
+00:04:37,100 --> 00:04:39,644
+♪ I’ll go even farther
+
+57
+00:04:39,728 --> 00:04:43,607
+♪ Even if this should become
+
+58
+00:04:43,690 --> 00:04:45,567
+♪ a night with no dawn
+
+59
+00:04:45,650 --> 00:04:49,905
+♪ Even if the thing I wished for
+that day
+
+60
+00:04:49,988 --> 00:04:52,407
+♪ was more than I deserved
+
+61
+00:04:52,491 --> 00:04:58,789
+♪ it moves me
+beyond all control
+
+62
+00:04:58,872 --> 00:05:05,378
+♪ It keeps pushing me onward,
+again and again
+
+63
+00:05:10,300 --> 00:05:12,302
+{\an8}～♪
+
+64
+00:05:14,513 --> 00:05:16,932
+(Coronal)
+Urdr-Hunt Memorandum.
+
+65
+00:05:17,307 --> 00:05:20,727
+Today, by order
+of my master “N”...
+
+66
+00:05:20,811 --> 00:05:23,688
+the commencement of the Urdr-Hunt
+has been declared.
+
+67
+00:05:24,648 --> 00:05:25,982
+The Urdr-Hunt is...
+
+68
+00:05:26,066 --> 00:05:29,194
+a race in which those who possess
+the qualifying Rings...
+
+69
+00:05:29,277 --> 00:05:34,616
+travel between designated points
+to collect specific data.
+
+70
+00:05:35,033 --> 00:05:37,369
+The grand prize is…
+
+71
+00:05:37,452 --> 00:05:38,870
+100 billion Melia.
+
+72
+00:05:39,913 --> 00:05:41,998
+An amount capable of...
+
+73
+00:05:42,082 --> 00:05:45,669
+completely changing the life
+of whoever obtains it.
+
+74
+00:05:58,306 --> 00:05:59,349
+(Alert sound)
+
+75
+00:05:59,432 --> 00:06:00,267
+Huh?
+
+76
+00:06:03,103 --> 00:06:04,396
+(Alert sound)
+(Renzie) Ah!
+
+77
+00:06:06,231 --> 00:06:07,899
+(Coronal)
+Dreams left unfulfilled…
+
+78
+00:06:08,400 --> 00:06:10,318
+ideals… desires…
+
+79
+00:06:11,403 --> 00:06:15,407
+A vast fortune capable of pulling
+all of them into reality.
+
+80
+00:06:16,032 --> 00:06:17,158
+If that is the case…
+
+81
+00:06:20,495 --> 00:06:25,417
+then perhaps it is inevitable
+that the struggle surrounding it...
+
+82
+00:06:25,500 --> 00:06:27,627
+would become one fought
+with lives at stake.
+
+83
+00:06:31,298 --> 00:06:32,382
+Haa…
+
+83.2
+00:06:37,500 --> 00:06:39,700
+Small Transport Ship Erda-Maru II
+
+84
+00:06:39,014 --> 00:06:40,223
+{\an8}(Wistario)
+How is it?
+
+85
+00:06:40,640 --> 00:06:43,476
+Did you figure out
+what’s written on the Ring?
+
+86
+00:06:43,977 --> 00:06:46,646
+It appears to be
+some sort of code…
+
+87
+00:06:46,730 --> 00:06:49,107
+Unfortunately,
+I cannot decipher it.
+
+88
+00:06:49,649 --> 00:06:51,067
+I see…
+
+89
+00:06:51,359 --> 00:06:53,695
+If it’s a ship from
+the Calamity War era...
+
+90
+00:06:53,778 --> 00:06:56,907
+maybe the data is connected
+to that time period…
+
+91
+00:06:58,366 --> 00:07:01,953
+(Coronal)
+A message has arrived
+from my master “N.”
+
+92
+00:07:02,037 --> 00:07:02,871
+(Wistario)
+What!?
+
+93
+00:07:03,622 --> 00:07:05,749
+(Applause)
+
+94
+00:07:05,832 --> 00:07:07,667
+Graturatio.
+
+95
+00:07:07,751 --> 00:07:10,086
+You have cleared
+the first mission of the Urdr-Hunt...
+
+96
+00:07:10,170 --> 00:07:11,504
+successfully.
+
+97
+00:07:11,588 --> 00:07:14,007
+(Wistario)
+Huh? That was it?
+
+98
+00:07:16,426 --> 00:07:18,220
+(Coronal)
+Within the Urdr-Hunt,
+
+99
+00:07:18,303 --> 00:07:23,433
+an encounter with a rival means
+a struggle for one another’s lives.
+
+100
+00:07:23,934 --> 00:07:26,269
+In a sense,
+that is the truth.
+
+101
+00:07:26,895 --> 00:07:27,938
+However…
+
+102
+00:07:29,731 --> 00:07:32,400
+(598)
+Who the hell are you calling pirates!?
+
+103
+00:07:32,484 --> 00:07:34,444
+(Wistario)
+You attacked a merchant ship
+with Mobile Suits...
+
+104
+00:07:34,527 --> 00:07:36,905
+no matter how you look at it,
+that makes you pirates!
+
+105
+00:07:40,367 --> 00:07:43,912
+(598)
+Don’t lump us in
+with some cheap small-timers!
+
+106
+00:07:43,995 --> 00:07:47,916
+Someday, we’re gonna become
+the next Tekkadan!
+
+107
+00:07:48,458 --> 00:07:49,542
+Tekkadan!?
+
+108
+00:07:49,626 --> 00:07:50,919
+Did you just say Tekkadan!?
+
+109
+00:07:52,295 --> 00:07:53,755
+Yeah, I did!
+
+110
+00:07:53,838 --> 00:07:56,341
+We’re gonna become
+the next Tekkadan!
+
+111
+00:07:56,424 --> 00:07:57,550
+Hmph!
+
+112
+00:07:58,218 --> 00:08:00,387
+(Wistario)
+Don’t screw around with me!
+
+113
+00:08:01,721 --> 00:08:04,599
+When did they ever
+make a name for themselves
+
+114
+00:08:04,683 --> 00:08:07,602
+by pulling pirate crap like this!?
+
+115
+00:08:08,561 --> 00:08:09,604
+Guh…
+
+116
+00:08:10,480 --> 00:08:14,025
+(Coronal)
+There were times when,
+after clashing with everything at stake...
+
+117
+00:08:14,109 --> 00:08:17,946
+strange bonds would be born
+between people.
+
+118
+00:08:20,907 --> 00:08:22,784
+(598)
+Nngh… guh…
+I’m fine…
+
+119
+00:08:25,620 --> 00:08:27,038
+(144 and others)
+Waaaaah!
+
+120
+00:08:27,122 --> 00:08:28,456
+(Kimbal)
+Who the hell are you!?
+
+121
+00:08:28,540 --> 00:08:30,000
+(Impact sound)
+(Kimbal)
+Whoa!
+
+122
+00:08:32,085 --> 00:08:35,505
+Man, there’s just something
+about you guys that pisses me off!
+
+123
+00:08:41,094 --> 00:08:43,138
+(598)
+Guess I owe you one.
+
+124
+00:08:43,221 --> 00:08:44,514
+Thanks.
+
+125
+00:08:44,597 --> 00:08:48,435
+(Wistario)
+It’s fine.
+I just stuck my nose into it on my own.
+
+126
+00:08:48,810 --> 00:08:50,437
+(598)
+Heh. Fair enough.
+
+127
+00:08:53,940 --> 00:08:55,984
+(Wistario)
+So what are you gonna do now?
+
+128
+00:08:56,901 --> 00:09:01,781
+If you’ve got nowhere to go,
+I could hire you over on Venus.
+
+129
+00:09:01,865 --> 00:09:02,741
+Venus?
+
+130
+00:09:03,658 --> 00:09:05,618
+With the prize money
+from the Urdr-Hunt...
+
+131
+00:09:05,702 --> 00:09:08,705
+I’m gonna buy back
+my home colony, Radonitsa!
+
+132
+00:09:08,788 --> 00:09:11,082
+Huh? Wait… what?
+Buy it back?
+
+133
+00:09:11,166 --> 00:09:12,167
+A colony!?
+
+134
+00:09:12,250 --> 00:09:13,084
+(Wistario)
+Yeah!
+
+135
+00:09:14,669 --> 00:09:18,006
+(Wistario)
+Right now, that beautiful planet
+only gets prisoners sent there...
+
+136
+00:09:18,089 --> 00:09:19,591
+but I’m gonna turn it into a place...
+
+137
+00:09:20,175 --> 00:09:22,177
+people from everywhere
+actually want to visit.
+
+138
+00:09:22,552 --> 00:09:25,972
+And for that,
+I’m gonna need a lot of help.
+
+139
+00:09:26,431 --> 00:09:27,474
+Mm…
+
+140
+00:09:29,768 --> 00:09:32,479
+You’re already acting
+like you’ve won the Urdr-Hunt.
+
+141
+00:09:32,562 --> 00:09:33,855
+(Wistario)
+Hm?
+
+142
+00:09:33,938 --> 00:09:35,148
+(598)
+Sorry, but…
+
+143
+00:09:35,231 --> 00:09:37,484
+I don’t think it’s gonna be
+that easy.
+
+144
+00:09:40,153 --> 00:09:41,321
+(Wistario)
+Then I guess
+that can’t be helped.
+
+145
+00:09:41,404 --> 00:09:42,238
+Yeah!
+
+146
+00:09:42,739 --> 00:09:45,784
+Next time we meet,
+you’re my rival.
+
+147
+00:09:45,867 --> 00:09:49,954
+I won’t hold back,
+so be ready, Wistario Afam!
+
+148
+00:09:50,038 --> 00:09:52,665
+Same to you, 598.
+
+149
+00:09:53,458 --> 00:09:54,292
+Yeah.
+
+150
+00:09:54,376 --> 00:09:55,960
+See ya!
+
+151
+00:09:56,920 --> 00:09:59,297
+(Coronal)
+598 and his companions.
+
+152
+00:10:00,006 --> 00:10:04,552
+Deceived by the pirate Kimbal
+and used as his underlings...
+
+153
+00:10:04,636 --> 00:10:07,430
+they followed Wistario’s advice...
+
+154
+00:10:07,514 --> 00:10:10,058
+and reclaimed ownership
+of their Rings.
+
+155
+00:10:10,558 --> 00:10:14,145
+They then officially joined
+the Urdr-Hunt.
+
+156
+00:10:17,941 --> 00:10:23,363
+And through all of that,
+another important meeting took place…
+
+157
+00:10:23,446 --> 00:10:27,534
+(Eating sounds)
+
+158
+00:10:27,617 --> 00:10:31,704
+(Eating sounds)
+
+159
+00:10:31,788 --> 00:10:33,081
+Who’s there!?
+
+160
+00:10:35,917 --> 00:10:36,960
+Ah...
+
+161
+00:10:38,503 --> 00:10:39,337
+Hm?
+
+162
+00:10:40,088 --> 00:10:43,216
+You were on Kimbal’s ship…
+
+163
+00:10:44,384 --> 00:10:45,718
+(Swallowing)
+
+164
+00:10:45,802 --> 00:10:47,095
+(Cature)
+Don’t call me “you.”
+
+165
+00:10:47,846 --> 00:10:48,972
+I’m Cature.
+
+166
+00:10:49,931 --> 00:10:52,475
+Cature Inoshee.
+
+167
+00:10:57,897 --> 00:11:00,984
+(Muffled voice)
+Hold on, let me finish eating this first.
+
+168
+00:11:03,194 --> 00:11:04,362
+(Clapping)
+
+169
+00:11:04,445 --> 00:11:08,366
+(Coronal)
+Cature, who had been held captive
+as cargo aboard the pirate ship...
+
+170
+00:11:08,449 --> 00:11:13,371
+became a new member
+of Wistario’s crew.
+
+171
+00:11:13,872 --> 00:11:17,458
+The fact that he gained
+a female companion his own age...
+
+172
+00:11:17,542 --> 00:11:19,750
+was something
+that delighted me as well.
+
+172.2
+00:11:19,751 --> 00:11:22,800
+Falk Family Private Vessel
+Cocoon Nidhoggr
+
+173
+00:11:21,171 --> 00:11:23,798
+{\an8}And then,
+there was one more…
+
+174
+00:11:23,882 --> 00:11:24,632
+{\an8}(Renzie)
+Guh…
+
+175
+00:11:28,678 --> 00:11:29,762
+Huh!? What is that!?
+
+176
+00:11:29,846 --> 00:11:30,847
+(Alert sound)
+
+177
+00:11:36,186 --> 00:11:37,937
+(Andy)
+What the hell are these things!?
+
+178
+00:11:38,021 --> 00:11:38,855
+Gwah!
+
+179
+00:11:38,938 --> 00:11:41,399
+Mr. Cyclase!
+What the hell is going on!?
+
+180
+00:11:41,482 --> 00:11:43,443
+(Cyclase)
+The Cocoon’s automated defense system.
+
+181
+00:11:43,526 --> 00:11:44,360
+Huh!?
+
+182
+00:11:44,861 --> 00:11:48,072
+(Cyclase)
+Once activated,
+it deploys a massive number of unmanned craft...
+
+183
+00:11:48,156 --> 00:11:52,368
+a system from the Calamity War era
+designed to eliminate enemies completely.
+
+184
+00:11:52,994 --> 00:11:57,624
+Though apparently,
+it can’t distinguish targets very well,
+so it attacks everything in sight.
+
+185
+00:12:00,710 --> 00:12:03,630
+What!? You activated this thing!?
+
+186
+00:12:03,713 --> 00:12:05,298
+(Cyclase)
+I told you
+I’d send reinforcements, didn’t I?
+
+187
+00:12:05,381 --> 00:12:06,216
+(Renzie)
+Ah!
+
+188
+00:12:06,299 --> 00:12:09,135
+(Cyclase)
+And let me warn you,
+trying to stop the system is pointless.
+
+189
+00:12:09,219 --> 00:12:13,723
+Damn it…
+So we were expendable from the start!?
+
+190
+00:12:14,974 --> 00:12:16,392
+(Andy)
+More of them are coming!
+
+191
+00:12:19,354 --> 00:12:22,315
+Boss! We’ll buy you some time!
+
+192
+00:12:22,398 --> 00:12:24,359
+(Bito)
+You make sure you get out alive!
+
+193
+00:12:24,442 --> 00:12:27,820
+You idiots…
+Stop it…
+
+194
+00:12:31,449 --> 00:12:32,492
+(Andy)
+We already decided this.
+
+195
+00:12:32,575 --> 00:12:33,701
+(Impact sound)
+(Andy)
+Guh…
+
+196
+00:12:33,785 --> 00:12:35,870
+We’re not gonna keep
+getting rescued forever.
+
+197
+00:12:35,954 --> 00:12:39,874
+Next time, we’re gonna save you
+and finally look cool doing it!
+
+198
+00:12:39,958 --> 00:12:41,042
+(Bito)
+You still gotta build...
+
+199
+00:12:41,125 --> 00:12:44,379
+the paradise
+you promised us!
+
+200
+00:12:44,462 --> 00:12:46,297
+That was the deal!
+
+201
+00:12:47,840 --> 00:12:49,759
+Cut it out… you idiots…
+
+202
+00:12:51,594 --> 00:12:53,513
+Uooooooh!
+
+203
+00:12:56,099 --> 00:12:57,767
+(Bito)
+It’s the Renzie Squad!
+
+204
+00:12:57,850 --> 00:12:59,727
+Don’t underestimate us!
+
+205
+00:13:00,395 --> 00:13:01,437
+(Bito)
+Gah!
+
+206
+00:13:02,730 --> 00:13:04,148
+Ugh!
+
+207
+00:13:04,232 --> 00:13:05,275
+Gah…
+
+208
+00:13:06,859 --> 00:13:08,152
+(Explosion)
+
+209
+00:13:08,236 --> 00:13:09,904
+Bito!
+
+210
+00:13:14,742 --> 00:13:16,411
+(Renzie)
+Stop it!
+
+211
+00:13:16,494 --> 00:13:17,662
+Bito! Andy!
+
+212
+00:13:21,124 --> 00:13:24,669
+Boss…
+we told you to run…
+
+213
+00:13:27,588 --> 00:13:28,923
+Guh…
+
+214
+00:13:29,007 --> 00:13:30,883
+How could I run
+and leave you behind!?
+
+215
+00:13:30,967 --> 00:13:33,386
+Heh… you can’t do that…
+
+216
+00:13:33,469 --> 00:13:35,638
+That was the promise… right…?
+
+217
+00:13:36,306 --> 00:13:38,224
+(Andy)
+Boss… you can’t die in…
+
+218
+00:13:38,308 --> 00:13:39,142
+Ah…
+
+219
+00:13:40,018 --> 00:13:42,145
+a… place… like…
+
+220
+00:13:42,228 --> 00:13:43,688
+Andy!
+
+221
+00:13:44,856 --> 00:13:45,690
+(Explosion)
+
+222
+00:13:45,773 --> 00:13:47,317
+Cyclase, you bastard!
+
+223
+00:13:47,400 --> 00:13:49,193
+(Andy) Boss…
+(Renzie) Guh!
+
+224
+00:13:49,277 --> 00:13:50,987
+(Andy) We’re counting on you…
+(Renzie) Ghh!
+
+225
+00:13:51,070 --> 00:13:54,490
+(Andy)
+For me… and Bito… too…
+
+226
+00:13:54,574 --> 00:13:55,700
+(Impact sound)
+(Renzie) Gah!
+
+227
+00:13:58,870 --> 00:14:01,831
+Ugh…
+Cyclase…
+
+228
+00:14:02,373 --> 00:14:04,375
+I won’t… forgive…
+
+229
+00:14:10,381 --> 00:14:11,215
+(Wistario)
+Hey!
+
+230
+00:14:11,299 --> 00:14:13,968
+Are you okay!?
+Hey!
+
+231
+00:14:14,052 --> 00:14:15,094
+Hey!
+
+232
+00:14:16,262 --> 00:14:19,349
+(Coronal)
+Though he belonged
+to a rival organization...
+
+233
+00:14:19,432 --> 00:14:23,019
+he was betrayed by his superior
+and lost his comrades...
+
+234
+00:14:23,102 --> 00:14:25,313
+Renzie Dablisco.
+
+235
+00:14:26,105 --> 00:14:28,274
+I’m not dropping out
+of the Urdr-Hunt.
+
+236
+00:14:29,317 --> 00:14:32,278
+I still haven’t achieved my dream.
+
+237
+00:14:32,362 --> 00:14:35,907
+The Urdr-Hunt
+is my greatest chance.
+
+238
+00:14:36,449 --> 00:14:39,535
+You mean that whole
+“building a nation” thing?
+
+239
+00:14:39,952 --> 00:14:43,414
+You’re willing to sacrifice your friends
+for your own dream!?
+
+240
+00:14:43,998 --> 00:14:45,416
+It’s not just my dream.
+
+241
+00:14:45,958 --> 00:14:47,418
+It’s everyone’s dream!
+
+242
+00:14:48,169 --> 00:14:52,632
+Right now, the Radonitsa Colony
+doesn’t belong to any economic bloc.
+
+243
+00:14:52,715 --> 00:14:56,552
+That means the people of Venus
+don’t even have IDs.
+
+244
+00:14:57,637 --> 00:15:01,057
+In other words,
+they’re treated like nobodies.
+
+245
+00:15:01,641 --> 00:15:04,352
+If we had our own nation,
+we’d finally have a place to belong.
+
+246
+00:15:04,435 --> 00:15:07,480
+We could proudly stand tall
+as “the people of Venus.”
+
+247
+00:15:07,563 --> 00:15:10,566
+It’s a dream meant
+to make everyone happy.
+
+248
+00:15:10,650 --> 00:15:14,695
+And with the Urdr-Hunt prize money,
+I’m gonna make it happen.
+
+249
+00:15:18,366 --> 00:15:23,121
+(Coronal)
+In order to fulfill his own dream
+and avenge his fallen comrades...
+
+250
+00:15:24,163 --> 00:15:28,626
+Renzie decided to travel
+alongside Wistario.
+
+251
+00:16:00,658 --> 00:16:01,492
+(Incoming transmission)
+
+252
+00:16:01,576 --> 00:16:02,618
+(Subordinate)
+Boss.
+
+253
+00:16:04,078 --> 00:16:05,163
+(Tamami)
+What is it?
+
+254
+00:16:05,246 --> 00:16:07,331
+(Subordinate)
+We’ve located their ship.
+
+255
+00:16:07,874 --> 00:16:10,209
+(Tamami)
+Got it.
+I’m heading over now.
+
+256
+00:16:12,670 --> 00:16:13,713
+(Palstai)
+Ah!
+
+257
+00:16:14,297 --> 00:16:15,715
+Who the hell are you?
+
+258
+00:16:15,798 --> 00:16:18,217
+(Tamami)
+Name’s Tamami Rakow.
+
+259
+00:16:18,301 --> 00:16:21,304
+I’m the boss
+of the Rakow Pirate Crew.
+
+260
+00:16:21,387 --> 00:16:23,848
+(598)
+I’m 598 of the Foundlings.
+
+261
+00:16:23,931 --> 00:16:25,975
+What does a pirate want with us?
+
+262
+00:16:26,476 --> 00:16:30,980
+We’ve got proof you brats attacked
+a Teiwaz-registered cargo ship.
+
+263
+00:16:31,063 --> 00:16:33,566
+I’m here to make you answer for it.
+
+264
+00:16:34,233 --> 00:16:37,487
+(Coronal)
+Tamami Rakow,
+one of the Ring holders...
+
+265
+00:16:38,196 --> 00:16:42,533
+is the leader of the Rakow Pirate Crew
+under the Turbines umbrella.
+
+266
+00:16:45,828 --> 00:16:47,997
+Just spare the ship
+and the Mobile Suits.
+
+267
+00:16:48,080 --> 00:16:51,125
+This place is our home,
+and we need them to survive.
+
+268
+00:16:51,209 --> 00:16:52,668
+We’ll pay compensation.
+
+269
+00:16:52,752 --> 00:16:55,880
+And whatever we can’t cover now,
+we’ll find a way to repay later.
+
+270
+00:16:55,963 --> 00:16:58,716
+(Tamami)
+Anyone can say that.
+
+271
+00:16:58,800 --> 00:17:01,719
+Then I’ll prove
+it’s not just talk.
+
+272
+00:17:01,803 --> 00:17:04,138
+What, you planning to chop off a finger?
+
+273
+00:17:05,723 --> 00:17:07,391
+(598)
+An entire arm.
+
+274
+00:17:07,475 --> 00:17:08,893
+Huh?
+
+275
+00:17:08,976 --> 00:17:11,646
+Right here, right now,
+I’ll cut this arm off.
+
+276
+00:17:11,729 --> 00:17:12,897
+(Palstai) Ah!
+(Wistario) 598!?
+
+277
+00:17:12,980 --> 00:17:13,814
+(Renzie)
+Hey! You…
+
+278
+00:17:13,898 --> 00:17:16,651
+(598)
+Then believe my words.
+
+279
+00:17:21,489 --> 00:17:22,406
+Fine.
+
+280
+00:17:22,490 --> 00:17:23,658
+(Tamami)
+Let’s see you do it.
+
+281
+00:17:23,741 --> 00:17:24,659
+(Palstai) Like hell we will…!
+(Impact sound)
+
+282
+00:17:24,742 --> 00:17:26,661
+(Alert sound)
+(Wistario)
+What now?
+
+283
+00:17:27,245 --> 00:17:30,456
+(Rohm)
+Ha-ha!
+See that, Aiko!?
+
+284
+00:17:30,873 --> 00:17:35,294
+(Rohm)
+This great Rohm Zahn
+is taking down every Ring holder at once!
+
+285
+00:17:35,378 --> 00:17:38,047
+(Aiko)
+Yeah, yeah.
+You’re amazing, big bro.
+
+286
+00:17:38,130 --> 00:17:41,759
+Seriously though,
+we could’ve waited until after
+they finished fighting each other…
+
+287
+00:17:41,842 --> 00:17:43,302
+(Rohm)
+Did you say something?
+
+288
+00:17:43,386 --> 00:17:45,221
+(Aiko)
+Big bro, you’re the best!
+
+289
+00:17:45,721 --> 00:17:49,225
+(Coronal)
+I was on edge worrying
+about the fate of 598’s arm, but...
+
+290
+00:17:49,976 --> 00:17:54,647
+after being attacked by a common enemy
+and fighting back-to-back together...
+
+291
+00:17:54,730 --> 00:17:56,524
+they managed
+to reconcile for the moment.
+
+292
+00:17:57,066 --> 00:18:01,404
+From then on,
+598 and the others would work under Tamami...
+
+293
+00:18:01,487 --> 00:18:04,115
+and learn the ways of business from her.
+
+294
+00:18:06,409 --> 00:18:09,328
+Alright then,
+who’s next!?
+
+295
+00:18:10,663 --> 00:18:11,497
+Ah!
+
+296
+00:18:11,581 --> 00:18:15,585
+(Rohm)
+Behold!
+The Gorgeous Pink and…
+
+297
+00:18:15,668 --> 00:18:18,170
+the Gorgeous Silver…
+
+298
+00:18:18,254 --> 00:18:20,715
+(Rohm & Aiko)
+Brother Attack!
+
+299
+00:18:21,799 --> 00:18:23,467
+Gwaaaaaah!
+
+300
+00:18:27,555 --> 00:18:29,098
+(Rohm)
+Aiko! Uwah!
+
+301
+00:18:29,181 --> 00:18:30,099
+What...
+
+302
+00:18:30,182 --> 00:18:31,434
+did you say!?
+
+303
+00:18:31,517 --> 00:18:33,603
+(Rohm) Damn it all!
+
+303.2
+00:18:43,650 --> 00:18:46,150
+Bauduin Family Orbital Satellite
+Sleipnir Periphery
+
+304
+00:18:46,532 --> 00:18:49,201
+(Coronal)
+Not every Urdr-Hunt participant...
+
+305
+00:18:49,285 --> 00:18:54,040
+is a seasoned fighter
+capable of piloting a Mobile Suit.
+
+306
+00:18:54,540 --> 00:18:56,125
+Kozo Mendo is a...
+
+307
+00:18:56,208 --> 00:19:00,755
+treasure hunter researching
+the Calamity War said to have occurred...
+
+308
+00:19:00,838 --> 00:19:02,173
+roughly 300 years ago.
+
+309
+00:19:02,256 --> 00:19:03,132
+(Mendo) Yeah.
+
+310
+00:19:03,215 --> 00:19:04,800
+That's right, young man.
+
+311
+00:19:04,884 --> 00:19:05,718
+(Wistario) Hm?
+
+312
+00:19:05,801 --> 00:19:08,596
+(Mendo) About your
+Gundam Frame...
+
+313
+00:19:08,679 --> 00:19:09,555
+Hajiroboshi?
+
+314
+00:19:09,639 --> 00:19:11,265
+Yeah...
+
+315
+00:19:11,349 --> 00:19:13,392
+There shouldn't be
+any Gundam Frame...
+
+316
+00:19:13,476 --> 00:19:15,144
+with a name like that.
+
+317
+00:19:15,227 --> 00:19:16,354
+Huh?
+
+318
+00:19:16,437 --> 00:19:19,023
+(Mendo)
+What was your name again?
+
+319
+00:19:19,106 --> 00:19:22,568
+Wistario Afam.
+Try to remember it this time.
+
+320
+00:19:23,152 --> 00:19:26,197
+Are you sure that's your real name?
+
+321
+00:19:26,280 --> 00:19:27,490
+Huh?
+
+322
+00:19:27,573 --> 00:19:30,368
+(Mendo)
+Once you learn Hajiroboshi's true name...
+
+323
+00:19:30,451 --> 00:19:34,038
+you may no longer be able
+to remain who you are now.
+
+324
+00:19:37,917 --> 00:19:40,378
+(Coronal)
+According to Mr. Mendo...
+
+325
+00:19:40,461 --> 00:19:42,880
+every point indicated by the rings...
+
+326
+00:19:42,963 --> 00:19:45,883
+is managed by one of the Seven Stars'
+seven great houses...
+
+327
+00:19:45,966 --> 00:19:50,388
+and consists of ruins or relics
+dating back to the Calamity War.
+
+328
+00:19:52,390 --> 00:19:53,891
+The Calamity War...
+
+329
+00:19:54,600 --> 00:19:57,061
+We Navigators are...
+
+330
+00:19:57,144 --> 00:20:01,649
+beings tasked with guiding
+ring-bearing participants...
+
+331
+00:20:02,316 --> 00:20:05,903
+under the orders of our master "N,"
+the organizer of the Urdr-Hunt...
+
+332
+00:20:07,029 --> 00:20:08,531
+However...
+
+333
+00:20:09,573 --> 00:20:14,495
+we have not been told anything
+about the Urdr-Hunt's true purpose...
+
+334
+00:20:14,578 --> 00:20:16,789
+or the nature of the data being collected.
+
+335
+00:20:17,289 --> 00:20:22,044
+The connection between the Urdr-Hunt,
+the Seven Stars, and the Calamity War...
+
+336
+00:20:22,420 --> 00:20:24,672
+Could it all really be true?
+
+337
+00:20:26,173 --> 00:20:29,176
+Still, there have certainly been events...
+
+338
+00:20:29,260 --> 00:20:31,429
+{\an8}that make it hard to dismiss it all
+as mere speculation...
+
+339
+00:20:31,512 --> 00:20:32,722
+{\an8}(Iok) The Calamity War...
+
+340
+00:20:33,389 --> 00:20:37,476
+(Iok) A mass-murder weapon
+from the Calamity War... you say!?
+
+341
+00:20:37,560 --> 00:20:41,063
+And something like that
+is inside territory overseen by House Kujan!?
+
+342
+00:20:41,772 --> 00:20:42,815
+(Iok's Subordinate) Um...
+
+343
+00:20:42,898 --> 00:20:44,525
+(Iok) How could I possibly allow...
+
+344
+00:20:44,608 --> 00:20:47,695
+my precious subordinates
+to remain exposed to such danger!?
+
+345
+00:20:48,070 --> 00:20:49,905
+Suspend the investigation immediately!
+
+346
+00:20:49,989 --> 00:20:53,659
+Inform the field team
+to withdraw at once!
+
+347
+00:20:54,160 --> 00:20:56,662
+Until I personally arrive
+to conduct the investigation...
+
+348
+00:20:56,746 --> 00:20:58,497
+{\an8}the colony is to be sealed off!
+
+349
+00:20:59,832 --> 00:21:00,666
+{\an8}(Gjallarhorn Soldier A)
+Hey.
+
+350
+00:21:00,750 --> 00:21:03,878
+We've got orders from Lord Iok
+to pull out immediately.
+
+351
+00:21:03,961 --> 00:21:05,546
+(Gjallarhorn Soldier B)
+Huh? Withdraw?
+
+352
+00:21:06,172 --> 00:21:09,133
+What about this thing?
+We're just leaving it here?
+
+353
+00:21:09,216 --> 00:21:11,552
+(Gjallarhorn Soldier A) Can't be helped.
+Those are the orders.
+
+354
+00:21:12,052 --> 00:21:14,889
+{\an8}(Footsteps)
+
+355
+00:21:14,972 --> 00:21:15,890
+{\an8}(Cyclase) Well then...
+
+356
+00:21:15,973 --> 00:21:18,559
+{\an8}guess it's about time
+I got back to work.
+
+357
+00:21:19,310 --> 00:21:21,562
+(Cyclase)
+It was fun talking with you.
+
+358
+00:21:21,645 --> 00:21:24,065
+Yeah. Same here.
+
+359
+00:21:24,774 --> 00:21:25,816
+Heh...
+
+360
+00:21:30,404 --> 00:21:31,280
+Goodbye.
+
+361
+00:21:31,363 --> 00:21:32,573
+(Ring glowing sound)
+(Cyclase) Hm?
+
+362
+00:21:33,282 --> 00:21:35,826
+(Spreading light sound)
+
+363
+00:21:41,791 --> 00:21:43,709
+(Gjallarhorn Soldier A) Get back!
+
+364
+00:21:49,673 --> 00:21:51,217
+(Wistario) That ring...
+
+365
+00:21:51,967 --> 00:21:53,719
+You're an Urdr-Hunt participant.
+
+366
+00:21:54,261 --> 00:21:55,096
+So you're...
+
+367
+00:21:55,179 --> 00:21:57,681
+I've wanted to meet you
+for quite some time.
+
+368
+00:21:57,765 --> 00:21:59,517
+Wistario Afam.
+
+369
+00:22:00,351 --> 00:22:03,312
+I was curious what kind of person
+could single-handedly...
+
+370
+00:22:03,395 --> 00:22:05,856
+wipe out Renzie's squad.
+
+371
+00:22:05,940 --> 00:22:07,233
+But I'm disappointed.
+
+372
+00:22:07,316 --> 00:22:09,151
+So you're Cyclase!
+
+373
+00:22:10,027 --> 00:22:13,864
+Turns out you're just some boring brat
+lost in his own dreams.
+
+374
+00:22:15,825 --> 00:22:18,577
+Well then, my business here is done.
+
+375
+00:22:19,745 --> 00:22:21,121
+So this is goodbye.
+
+376
+00:22:21,205 --> 00:22:22,665
+(Cyclase) Guh!
+(Wistario) Ah!
+
+377
+00:22:24,834 --> 00:22:25,668
+Damn...
+
+378
+00:22:26,335 --> 00:22:27,169
+What is this!?
+
+379
+00:22:34,510 --> 00:22:35,636
+Ah...
+
+380
+00:22:37,972 --> 00:22:41,183
+(Coronal) Waiting for us
+at the fourth point was...
+
+381
+00:22:41,267 --> 00:22:42,143
+a Mobile Armor.
+
+382
+00:22:43,185 --> 00:22:46,063
+A weapon of destruction
+that triggered the Calamity War...
+
+383
+00:22:46,146 --> 00:22:51,402
+300 years ago
+and nearly drove humanity to extinction.
+
+384
+00:22:53,445 --> 00:22:54,905
+(598) Boss! Hah!
+
+385
+00:23:16,260 --> 00:23:16,927
+Ah!
+
+386
+00:23:19,513 --> 00:23:20,431
+Damn it!
+
+387
+00:23:22,516 --> 00:23:24,059
+What is this thing!?
+
+388
+00:23:24,143 --> 00:23:25,686
+Why is it only reacting to Wistario!?
+
+389
+00:23:25,769 --> 00:23:26,604
+Nngh...
+
+390
+00:23:26,687 --> 00:23:28,105
+Huh!? What's this!?
+
+391
+00:23:29,565 --> 00:23:30,816
+Hajiroboshi?
+
+392
+00:23:33,152 --> 00:23:35,237
+No good... I can't control it...
+
+393
+00:23:39,909 --> 00:23:41,577
+Guh... uh!
+
+394
+00:23:45,372 --> 00:23:48,000
+Its power increased!? Ah!
+
+395
+00:23:51,170 --> 00:23:52,922
+"Marchosias"?
+
+396
+00:24:53,357 --> 00:24:58,070
+(Coronal) The battle
+left us heavily damaged.
+
+397
+00:25:03,200 --> 00:25:07,454
+To carry out repairs and maintenance,
+we decided to temporarily...
+
+398
+00:25:07,538 --> 00:25:11,875
+return to the Radonitsa Colony
+on Venus.
+
+399
+00:25:13,544 --> 00:25:15,796
+Whoa... This is amazing!
+
+400
+00:25:16,630 --> 00:25:18,382
+(598) Yeah, it's incredible, but...
+
+401
+00:25:18,465 --> 00:25:21,176
+Does this really count as a colony?
+
+402
+00:25:21,260 --> 00:25:22,928
+I've never seen anything like this.
+
+403
+00:25:23,554 --> 00:25:26,682
+This is my first time seeing
+an open-type colony as well.
+
+404
+00:25:26,765 --> 00:25:30,561
+It's different from both
+the surface and closed colonies...
+
+405
+00:25:30,644 --> 00:25:34,440
+This is definitely something
+worth seeing for yourself.
+
+406
+00:25:35,065 --> 00:25:37,776
+(Cature) It's really amazing...
+
+407
+00:25:38,527 --> 00:25:40,279
+(Sound of wind)
+(Cature) Heheheh...
+
+408
+00:25:40,362 --> 00:25:41,196
+Ah!
+
+409
+00:25:42,322 --> 00:25:43,365
+What's this?
+
+410
+00:25:44,074 --> 00:25:45,826
+This is the best!
+
+411
+00:25:46,785 --> 00:25:49,705
+Welcome to Radonitsa Colony!
+
+412
+00:25:56,086 --> 00:25:59,006
+(Coronal)
+It really is an incredible sight.
+
+413
+00:25:59,089 --> 00:26:02,843
+(Cature) Yeah.
+It makes me want to stay here forever.
+
+414
+00:26:02,926 --> 00:26:05,596
+If you want to stay, Cature,
+you can stay as long as you like.
+
+415
+00:26:05,679 --> 00:26:06,513
+(Cature) Huh?
+
+416
+00:26:06,597 --> 00:26:08,098
+(Wistario) You're welcome here.
+
+417
+00:26:08,182 --> 00:26:09,016
+Ah...
+
+418
+00:26:09,892 --> 00:26:12,478
+Of course, you'll have to help with work.
+
+419
+00:26:12,978 --> 00:26:14,021
+You too, Coronal.
+
+420
+00:26:14,104 --> 00:26:14,772
+(Coronal) Huh?
+
+421
+00:26:15,439 --> 00:26:17,066
+Once the Urdr-Hunt is over...
+
+422
+00:26:17,149 --> 00:26:19,693
+will you go back to that person called "N"?
+
+423
+00:26:19,777 --> 00:26:22,780
+No, I don't have any such plans...
+
+424
+00:26:23,155 --> 00:26:25,032
+A navigator's duty...
+
+425
+00:26:25,532 --> 00:26:28,535
+lasts only until the
+Urdr-Hunt comes to an end.
+
+426
+00:26:28,619 --> 00:26:29,661
+(Wistario) Then...
+
+427
+00:26:29,745 --> 00:26:32,164
+would you help me even after it's over?
+
+428
+00:26:32,247 --> 00:26:33,374
+Ah...
+
+429
+00:26:35,292 --> 00:26:36,752
+Would that really be alright?
+
+430
+00:26:36,835 --> 00:26:37,961
+(Wistario) Of course.
+
+431
+00:26:38,045 --> 00:26:40,798
+I want to keep drinking your tea,
+Lady Coronal.
+
+432
+00:26:40,881 --> 00:26:42,049
+Heh...
+
+433
+00:26:42,841 --> 00:26:44,426
+Gratias.
+
+434
+00:26:44,510 --> 00:26:46,720
+That makes me very happy.
+
+435
+00:26:46,804 --> 00:26:48,680
+(Wistario) Right, Cature?
+
+436
+00:26:49,848 --> 00:26:50,682
+Yeah.
+
+437
+00:26:51,308 --> 00:26:52,935
+You too, 598 and Renzie!
+
+438
+00:26:53,018 --> 00:26:54,311
+Once I buy the colony with the prize money...
+
+439
+00:26:54,395 --> 00:26:56,855
+I told you,
+I'm not handing over the prize money!
+
+440
+00:26:56,939 --> 00:26:58,816
+(Renzie) Am I just an afterthought?
+(Wistario) Ahahahaha!
+
+441
+00:26:59,316 --> 00:27:00,734
+(598)
+Quit laughing, damn it! Hey!
+
+442
+00:27:00,818 --> 00:27:01,944
+(Cature) Yeah...
+
+443
+00:27:02,027 --> 00:27:03,570
+I hope it can happen.
+
+444
+00:27:04,154 --> 00:27:04,988
+(Coronal) Hm?
+
+445
+00:27:05,072 --> 00:27:06,073
+(598) Hey! Wistario!
+
+446
+00:27:08,033 --> 00:27:10,577
+(Sound of explosion)
+
+447
+00:27:16,333 --> 00:27:18,669
+(Coronal)
+While waiting for instructions
+for the next point...
+
+448
+00:27:18,752 --> 00:27:21,797
+there was some trouble with Gjallarhorn...
+
+449
+00:27:21,880 --> 00:27:24,716
+over the Mobile Suit
+they had been hiding...
+
+450
+00:27:25,968 --> 00:27:27,803
+(Isurugi) That hits a little close to home.
+
+450.2
+00:27:29,900 --> 00:27:32,850
+Large Planetary Cruiser Saisei
+
+451
+00:27:31,849 --> 00:27:35,018
+{\an8}(Coronal) Thanks to Ms. Tamami’s introduction,
+598 was able to meet...
+
+452
+00:27:35,102 --> 00:27:39,773
+the members of the Turbines
+and Tekkadan that he admired so much...
+
+453
+00:27:45,737 --> 00:27:49,825
+And somehow,
+the amusing brothers who attacked us repeatedly...
+
+454
+00:27:49,908 --> 00:27:53,078
+ended up forming
+a bond of trust with us...
+
+455
+00:27:53,620 --> 00:27:56,039
+Though there were occasional little disturbances...
+
+456
+00:27:56,123 --> 00:27:59,209
+our peaceful days
+continued on for a while...
+
+457
+00:27:59,293 --> 00:28:00,836
+(Aiko) Ugh... Aaah...
+
+458
+00:28:01,462 --> 00:28:04,464
+Ngh... Ugh... Aaah...
+
+459
+00:28:04,548 --> 00:28:08,635
+Aaaahhh!
+I'm sorry, big bro!
+
+460
+00:28:08,719 --> 00:28:10,971
+Brotheeer!
+
+461
+00:28:11,513 --> 00:28:13,473
+Come back, Aiko!
+
+462
+00:28:14,141 --> 00:28:17,978
+(Rohm) Come baaack!
+(Aiko) Big bro!
+
+463
+00:28:18,896 --> 00:28:20,981
+(Coronal)
+The great whirlpool...
+
+464
+00:28:21,064 --> 00:28:22,983
+that would swallow us all...
+
+465
+00:28:24,026 --> 00:28:25,444
+(Masked Man)
+The name reported by Isurugi...
+
+466
+00:28:25,527 --> 00:28:27,070
+as the person in charge...
+
+467
+00:28:27,154 --> 00:28:29,907
+of the Afam facility was...
+
+468
+00:28:30,282 --> 00:28:32,034
+Wistario Afam.
+
+469
+00:28:33,243 --> 00:28:34,119
+A coincidence?
+
+470
+00:28:34,953 --> 00:28:36,121
+Or perhaps...
+
+471
+00:28:36,914 --> 00:28:43,045
+(Coronal) Meanwhile,
+beneath the surface,
+the ripples continued to spread little by little.
+
+472
+00:28:48,133 --> 00:28:49,593
+Ah...
+
+473
+00:28:56,683 --> 00:28:59,603
+(Renzie)
+That's a Gjallarhorn Skipjack-class ship.
+
+474
+00:28:59,686 --> 00:29:02,105
+First time I've ever seen one.
+
+475
+00:29:02,189 --> 00:29:04,274
+That crest is?
+
+476
+00:29:04,608 --> 00:29:06,151
+It's the Issue family's.
+
+477
+00:29:06,235 --> 00:29:08,111
+Huh? One of the Seven Stars?
+
+478
+00:29:08,529 --> 00:29:09,363
+Ngh...
+
+479
+00:29:10,614 --> 00:29:13,492
+(Dexter)
+Those bastards even brought out Mobile Suits.
+
+480
+00:29:13,575 --> 00:29:17,371
+Six... seven...
+Ugh, counting them is a pain.
+
+481
+00:29:17,454 --> 00:29:20,749
+There's no way our forces
+can handle an opponent like this.
+
+482
+00:29:20,832 --> 00:29:23,752
+Guess we've got no choice
+but to obey the order to stop...
+
+483
+00:29:24,086 --> 00:29:25,128
+(Cature) No way...
+
+484
+00:29:26,129 --> 00:29:27,798
+Absolutely not!
+
+485
+00:29:28,715 --> 00:29:29,633
+Cature?
+
+486
+00:29:30,384 --> 00:29:32,344
+I'd rather die than let them catch me...
+
+487
+00:29:32,427 --> 00:29:33,804
+Ah...
+
+488
+00:29:33,887 --> 00:29:35,597
+(Sound of door opening)
+(Wistario) Cature!
+
+489
+00:29:37,266 --> 00:29:38,100
+(Sound of incoming transmission)
+
+490
+00:29:38,183 --> 00:29:40,936
+(Lond)
+The ship over there, halt immediately.
+
+491
+00:29:41,019 --> 00:29:43,563
+If you comply,
+we won't resort to force.
+
+492
+00:29:44,189 --> 00:29:47,067
+We are here concerning...
+
+493
+00:29:47,150 --> 00:29:49,569
+a woman aboard your ship
+named Cature Inoshee.
+
+494
+00:29:49,653 --> 00:29:50,487
+What!?
+
+495
+00:29:50,570 --> 00:29:53,448
+(Lond)
+We ask that you promptly hand over Lady Cature.
+
+496
+00:29:53,532 --> 00:29:55,576
+Lady... Cature?
+
+497
+00:29:56,243 --> 00:29:58,579
+(Demnar)
+Why would the Issue family?
+
+498
+00:30:04,167 --> 00:30:06,920
+(Cature) Ngh... Ahh...
+
+499
+00:30:07,796 --> 00:30:09,548
+Ngh... Nnnh...
+
+500
+00:30:09,631 --> 00:30:11,466
+Ah... Ah... Ugh...
+
+501
+00:30:11,550 --> 00:30:13,051
+Wah! Ah!
+
+502
+00:30:16,597 --> 00:30:17,639
+Let go of me!
+
+503
+00:30:17,723 --> 00:30:18,807
+Ah...
+
+504
+00:30:21,727 --> 00:30:24,062
+(Wistario)
+Even if you fight them, you can't win.
+
+505
+00:30:24,146 --> 00:30:26,440
+(Cature)
+Even so, if it's a choice between that and being captured...
+
+506
+00:30:26,523 --> 00:30:28,650
+I'd rather die!
+
+507
+00:30:31,486 --> 00:30:33,822
+(Wistario)
+So they're really that awful, huh?
+
+508
+00:30:38,994 --> 00:30:40,245
+Got it.
+
+509
+00:30:40,912 --> 00:30:42,331
+Leave it to me.
+
+510
+00:30:42,414 --> 00:30:43,373
+Huh? Wah!
+
+511
+00:30:47,878 --> 00:30:49,379
+(Wistario)
+I'll go in Hajiroboshi.
+
+512
+00:30:49,463 --> 00:30:51,423
+Wistario...
+
+513
+00:30:51,506 --> 00:30:53,383
+(Wistario)
+Renzie, get ready!
+
+514
+00:30:53,467 --> 00:30:57,346
+We're breaking through their blockade
+and getting out of this sector!
+
+515
+00:30:57,763 --> 00:30:59,890
+Damn it, guess we've got no choice!
+
+516
+00:31:00,474 --> 00:31:02,809
+Things are about to get busy.
+
+517
+00:31:02,893 --> 00:31:04,394
+I'll help with the preparations.
+
+518
+00:31:04,478 --> 00:31:06,229
+Everyone...
+
+519
+00:31:06,730 --> 00:31:08,148
+Thank you.
+
+520
+00:31:14,696 --> 00:31:15,614
+Gah!
+
+521
+00:31:15,697 --> 00:31:17,240
+(Coronal)
+Against such a large force...
+
+522
+00:31:17,324 --> 00:31:20,702
+we were at an overwhelming disadvantage, but...
+
+523
+00:31:20,786 --> 00:31:22,579
+Its movements are completely different!
+
+524
+00:31:28,668 --> 00:31:29,503
+(Masked Man)
+Looks like...
+
+525
+00:31:30,253 --> 00:31:31,797
+I made it in time.
+
+526
+00:31:33,548 --> 00:31:34,549
+(Lond) Ngh!
+
+527
+00:31:34,633 --> 00:31:36,802
+Now then, go.
+
+528
+00:31:36,885 --> 00:31:38,178
+But...
+
+529
+00:31:38,261 --> 00:31:39,554
+(Renzie) Wistario!
+
+530
+00:31:41,348 --> 00:31:43,809
+(Coronal)
+Thanks to the assistance of a man
+calling himself Montag...
+
+531
+00:31:44,518 --> 00:31:47,521
+we somehow managed to escape.
+
+532
+00:31:51,066 --> 00:31:53,985
+Tch! It's not over yet!
+
+533
+00:31:59,741 --> 00:32:00,826
+You bastard!
+
+534
+00:32:00,909 --> 00:32:03,161
+(Masked Man)
+Okina Uroka's ambition...
+
+535
+00:32:04,079 --> 00:32:06,540
+You've noticed it too, haven't you?
+
+536
+00:32:07,207 --> 00:32:08,875
+(Lond) What?
+(Masked Man) Hmph.
+
+537
+00:32:14,047 --> 00:32:17,050
+Who the hell was that guy?
+
+538
+00:32:19,803 --> 00:32:22,556
+(Coronal)
+Due to a certain incident on Earth...
+
+539
+00:32:22,639 --> 00:32:24,975
+it seems the Issue family's heir...
+
+540
+00:32:25,058 --> 00:32:28,145
+a woman named Carta Issue,
+passed away.
+
+541
+00:32:28,812 --> 00:32:33,233
+The current head of the family is elderly,
+with little time remaining.
+
+542
+00:32:33,733 --> 00:32:37,988
+The Issue family, desperate to choose a successor,
+set their sights on...
+
+543
+00:32:38,071 --> 00:32:40,198
+the family head's illegitimate child...
+
+544
+00:32:40,282 --> 00:32:41,992
+Lady Cature.
+
+545
+00:32:43,577 --> 00:32:45,996
+You don't intend to return
+to the Issue family, do you, Cature?
+
+546
+00:32:46,079 --> 00:32:49,499
+(Cature)
+Return? That place was never my home!
+
+547
+00:32:50,584 --> 00:32:53,753
+My mother was a servant
+for the Issue family.
+
+548
+00:32:54,504 --> 00:32:57,340
+After she became pregnant with me...
+
+549
+00:32:57,424 --> 00:33:01,720
+the man who's supposedly my father
+threw her away like a filthy rag!
+
+550
+00:33:01,803 --> 00:33:03,513
+And now they want to take me back?
+
+551
+00:33:04,055 --> 00:33:06,099
+I’ll never forgive them!
+
+552
+00:33:06,183 --> 00:33:07,934
+（Coronal）
+Cature...
+
+553
+00:33:08,310 --> 00:33:10,771
+（Cature）
+I don’t want to drag everyone into this...
+
+554
+00:33:11,354 --> 00:33:12,230
+But!
+
+555
+00:33:12,314 --> 00:33:13,523
+I understand.
+
+556
+00:33:14,399 --> 00:33:16,026
+You don’t need to worry.
+
+557
+00:33:16,109 --> 00:33:19,362
+I’ll never hand Cature over
+to those bastards.
+
+558
+00:33:19,446 --> 00:33:20,739
+（Demnar）
+Young master...
+
+559
+00:33:22,157 --> 00:33:25,285
+Cature is my precious friend...
+my family.
+
+560
+00:33:25,994 --> 00:33:28,163
+I’m not giving my family to anyone.
+
+561
+00:33:28,246 --> 00:33:29,080
+（ring glowing）
+
+562
+00:33:29,164 --> 00:33:30,290
+(Wistario）Huh?
+(Coronal）Ah!
+
+563
+00:33:30,790 --> 00:33:32,792
+（Wistario and the others）
+Ah!
+
+564
+00:33:33,585 --> 00:33:34,794
+The ring...
+
+565
+00:33:36,838 --> 00:33:37,798
+{\an8}（Coronal）
+The ring revealed...
+
+566
+00:33:37,881 --> 00:33:39,800
+{\an8}the fifth point.
+
+566.2
+00:33:39,125 --> 00:33:42,375
+Fareed Family Abandoned Battleship
+Fenrir
+
+567
+00:33:40,050 --> 00:33:41,301
+{\an8}However,
+Mr. Wistario...
+
+568
+00:33:41,384 --> 00:33:42,719
+{\an8}chose...
+
+569
+00:33:42,802 --> 00:33:46,973
+to avoid heading there
+in order to escape pursuit.
+
+570
+00:33:49,559 --> 00:33:52,479
+{\an8}We slipped through
+the Issue family's blockade…
+
+570.2
+00:33:49,300 --> 00:33:52,100
+African Union Colony
+Under Renovation
+
+571
+00:33:52,562 --> 00:33:56,858
+dodging pursuers
+as we continued to flee, but...
+
+572
+00:33:56,942 --> 00:33:59,110
+eventually, the moment came...
+
+573
+00:34:03,156 --> 00:34:04,491
+（Londo）
+Unforgivable...
+
+574
+00:34:05,116 --> 00:34:09,079
+To defile the purity
+of the future head of the Issue family...
+
+575
+00:34:09,621 --> 00:34:10,497
+I will not allow it!
+
+576
+00:34:10,580 --> 00:34:13,500
+Further negotiations are pointless!
+
+577
+00:34:14,042 --> 00:34:17,504
+We will recover Lady Cature
+by force if necessary!
+
+578
+00:34:18,046 --> 00:34:22,509
+Eliminate every member
+of that ship’s crew!
+
+579
+00:34:22,592 --> 00:34:23,677
+Yes, sir!
+
+580
+00:34:23,760 --> 00:34:25,637
+No! Stop!
+
+581
+00:34:26,471 --> 00:34:30,350
+Wistario Afam!
+I’ll warn you one last time.
+
+582
+00:34:30,433 --> 00:34:32,686
+Hand over Lady Cature peacefully!
+
+583
+00:34:33,895 --> 00:34:34,729
+No!
+
+584
+00:34:34,813 --> 00:34:36,231
+Ghh...
+
+585
+00:34:37,524 --> 00:34:41,027
+Then your comrades will lose their lives!
+
+586
+00:34:41,111 --> 00:34:42,654
+Are you prepared for that!?
+
+587
+00:34:42,737 --> 00:34:44,406
+（Wistario）
+Of course I’m not!
+
+588
+00:34:45,657 --> 00:34:47,868
+Don’t lay a hand on my friends!
+
+589
+00:34:47,951 --> 00:34:49,452
+（Londo）
+You brought this upon them!
+
+590
+00:34:50,078 --> 00:34:54,291
+Lady Cature, or your comrades’ lives...
+which will you choose!?
+
+591
+00:34:54,666 --> 00:34:55,709
+（Wistario）
+They’re all my family!
+
+592
+00:34:55,792 --> 00:34:56,459
+（Coronal）
+Cature!
+
+593
+00:34:56,543 --> 00:34:58,461
+（Wistario）
+There’s no way I can choose!
+
+594
+00:34:58,545 --> 00:35:02,173
+I’ll say it again!
+Don’t touch my family!
+
+595
+00:35:03,508 --> 00:35:05,218
+Fool!
+
+596
+00:35:07,137 --> 00:35:09,681
+Attention all deployed units!
+
+597
+00:35:09,764 --> 00:35:11,933
+All personnel, eliminate these people at on...
+
+598
+00:35:12,017 --> 00:35:13,560
+（Cature）
+Stop it!
+
+599
+00:35:14,644 --> 00:35:16,271
+Cature... Ah!
+
+600
+00:35:18,231 --> 00:35:20,859
+Nobody move!
+
+601
+00:35:20,942 --> 00:35:22,277
+（Coronal）
+Cature!
+
+602
+00:35:22,360 --> 00:35:23,987
+（Londo）
+La... Lady Cature!
+
+603
+00:35:24,529 --> 00:35:25,906
+（Wistario）
+Cature? What are you...
+
+604
+00:35:25,989 --> 00:35:26,740
+（Cature）
+I...
+
+605
+00:35:27,741 --> 00:35:29,492
+I’ll go to the Issue family.
+
+606
+00:35:29,576 --> 00:35:30,619
+So...
+
+607
+00:35:31,286 --> 00:35:32,787
+please stop.
+
+608
+00:35:33,288 --> 00:35:35,457
+（Wistario）
+What are you saying, Cature?
+
+609
+00:35:35,957 --> 00:35:39,085
+No! I won’t allow that!
+
+610
+00:35:41,546 --> 00:35:43,048
+（Cature）
+Wistario...
+
+611
+00:35:44,883 --> 00:35:46,051
+Thank you.
+
+612
+00:35:47,052 --> 00:35:50,555
+For protecting me
+all the way to the very end.
+
+613
+00:35:51,765 --> 00:35:53,642
+It made me so happy.
+
+614
+00:35:53,725 --> 00:35:56,686
+Happy enough that
+I could die right now...
+
+615
+00:35:56,770 --> 00:35:57,896
+Ghh...
+
+616
+00:35:57,979 --> 00:35:58,813
+（Cature）
+So...
+
+617
+00:36:00,649 --> 00:36:01,983
+your turn is over.
+
+618
+00:36:02,776 --> 00:36:07,113
+Now it’s my turn
+to protect you and everyone else.
+
+619
+00:36:08,490 --> 00:36:09,866
+Because...
+
+620
+00:36:09,950 --> 00:36:12,619
+that’s what family does, right?
+
+621
+00:36:13,662 --> 00:36:15,997
+Ngh... ngh!
+
+622
+00:36:16,831 --> 00:36:17,999
+Heh...
+
+623
+00:36:19,334 --> 00:36:20,543
+（Wistario）
+Cature...
+
+624
+00:36:21,836 --> 00:36:22,754
+（Coronal）
+For the sake of family...
+
+625
+00:36:23,838 --> 00:36:25,799
+That’s what Cature said as she...
+
+626
+00:36:25,882 --> 00:36:28,802
+left before our eyes.
+
+627
+00:36:30,595 --> 00:36:33,306
+All of us shared one wish...
+
+628
+00:36:33,807 --> 00:36:35,350
+We wanted Cature back!
+
+629
+00:36:36,518 --> 00:36:41,147
+And for that,
+we first had to find where she was.
+
+630
+00:36:41,940 --> 00:36:45,360
+After gathering information
+from various sources, we learned...
+
+631
+00:36:47,904 --> 00:36:50,490
+that the current Issue family
+had split into two factions...
+
+632
+00:36:50,573 --> 00:36:55,453
+fighting over what should be done
+with Cature.
+
+633
+00:36:57,288 --> 00:37:00,709
+And that the man hired
+by the opposing faction...
+
+634
+00:37:01,209 --> 00:37:04,713
+to eliminate Londo Bron,
+who had abducted Cature...
+
+635
+00:37:04,796 --> 00:37:07,882
+was none other than
+that Cyclase Myer.
+
+636
+00:37:13,930 --> 00:37:15,140
+If we follow...
+
+637
+00:37:15,223 --> 00:37:18,226
+the ship of Cyclase Myer,
+whose location we’ve identified...
+
+638
+00:37:18,309 --> 00:37:21,312
+then surely,
+Cature will be waiting beyond it...
+
+639
+00:37:22,188 --> 00:37:24,190
+Our course was set.
+
+640
+00:37:26,776 --> 00:37:27,902
+（Cyclase）
+I see.
+
+641
+00:37:27,986 --> 00:37:29,362
+You certainly have skill.
+
+642
+00:37:29,446 --> 00:37:30,822
+Your head is mine!
+
+643
+00:37:31,448 --> 00:37:33,450
+（Tagging）
+A little greeting to start us off!
+
+644
+00:37:35,118 --> 00:37:37,537
+（naval bombardment）
+
+645
+00:37:49,674 --> 00:37:52,051
+（door opens）
+
+646
+00:37:52,719 --> 00:37:54,596
+（Coronal）
+Can’t sleep?
+
+647
+00:37:54,679 --> 00:37:55,805
+（Wistario）
+Coronal...
+
+648
+00:37:58,975 --> 00:37:59,809
+Sorry.
+
+649
+00:37:59,893 --> 00:38:01,269
+（Coronal）
+Hm?
+
+650
+00:38:01,352 --> 00:38:02,395
+（Wistario）
+Urdr-Hunt...
+
+651
+00:38:02,479 --> 00:38:05,565
+Because I ended up
+abandoning it partway through
+
+652
+00:38:07,776 --> 00:38:08,860
+No
+
+653
+00:38:09,402 --> 00:38:14,365
+I want to help Lady Cature too
+we all feel the same
+
+654
+00:38:14,449 --> 00:38:15,700
+And...
+
+655
+00:38:15,784 --> 00:38:19,871
+it’s not like we’ve
+already lost the Urdr-Hunt
+
+656
+00:38:19,954 --> 00:38:23,666
+Even after we save Lady Cature,
+we can still recover
+
+657
+00:38:23,750 --> 00:38:26,336
+(Wistario) Yeah, you’re right
+
+658
+00:38:27,003 --> 00:38:30,590
+So let’s definitely
+get Lady Cature back
+
+659
+00:38:30,673 --> 00:38:33,176
+Yeah, definitely
+
+660
+00:38:33,259 --> 00:38:34,093
+So...
+
+661
+00:38:36,888 --> 00:38:37,806
+(Coronal) Huh?
+
+662
+00:38:37,889 --> 00:38:39,682
+(Wistario)
+Until then... Lady Coronal...
+
+663
+00:38:39,766 --> 00:38:42,018
+I want you to hold onto this ring
+
+664
+00:38:44,813 --> 00:38:45,855
+Understood
+
+665
+00:38:49,109 --> 00:38:53,613
+Until we get Lady Cature back,
+I will keep it safe
+
+666
+00:38:54,405 --> 00:38:55,615
+(Wistario) Thanks
+
+667
+00:38:58,201 --> 00:39:00,286
+Hey, you old guys
+
+668
+00:39:00,370 --> 00:39:02,413
+Eavesdropping isn’t cool
+
+669
+00:39:02,497 --> 00:39:03,623
+(Dexter)
+Then you should...
+
+670
+00:39:03,706 --> 00:39:06,376
+just go back to your room already
+
+671
+00:39:06,459 --> 00:39:08,545
+(Demnar)
+You should be resting...
+
+672
+00:39:08,628 --> 00:39:10,088
+the young master was concerned
+
+673
+00:39:11,214 --> 00:39:13,591
+I can’t sleep anyway
+
+674
+00:39:13,675 --> 00:39:16,594
+Ever since I heard
+Cyclase is involved...
+
+675
+00:39:17,595 --> 00:39:19,097
+Andy and Bito...
+
+676
+00:39:19,180 --> 00:39:23,017
+their faces keep popping into my head
+and won’t leave
+
+677
+00:39:23,393 --> 00:39:26,312
+We’re going to save that girl
+
+678
+00:39:26,396 --> 00:39:28,106
+You haven’t forgotten that, have you?
+
+679
+00:39:29,065 --> 00:39:32,026
+Don’t lump me in
+with senile old men
+
+680
+00:39:32,110 --> 00:39:34,112
+Of course I remember
+
+681
+00:39:34,195 --> 00:39:37,240
+But when I face that guy...
+
+682
+00:39:37,949 --> 00:39:41,744
+I feel like my urge for revenge
+is going to explode
+
+683
+00:39:41,828 --> 00:39:45,623
+(Demnar) That man’s grudge
+is your personal matter
+
+684
+00:39:46,583 --> 00:39:48,376
+I won’t tell you not to take revenge
+
+685
+00:39:49,419 --> 00:39:50,587
+Old man...
+
+686
+00:39:50,670 --> 00:39:53,131
+(Demnar)
+I’m sure the young master would say the same
+
+687
+00:39:53,214 --> 00:39:54,841
+Yeah, he might
+
+688
+00:39:55,717 --> 00:39:57,886
+(Renzie)
+He even saved a guy like me...
+
+689
+00:39:57,969 --> 00:40:00,430
+and let me board his ship
+
+690
+00:40:00,513 --> 00:40:03,516
+On top of that, he even makes me help
+with his dream...
+
+691
+00:40:03,600 --> 00:40:06,102
+I really don’t understand him
+
+692
+00:40:06,644 --> 00:40:09,105
+But if it’s his dream...
+
+693
+00:40:09,189 --> 00:40:12,191
+I oddly want to see it through myself
+
+694
+00:40:13,484 --> 00:40:14,777
+But before that...
+
+695
+00:40:15,320 --> 00:40:18,823
+I want to settle things
+with Cyclase
+
+696
+00:40:18,907 --> 00:40:20,742
+(Demnar) Then go settle it
+
+697
+00:40:21,492 --> 00:40:23,494
+Just don’t you die
+
+698
+00:40:24,287 --> 00:40:26,205
+Yeah, I know
+
+699
+00:40:26,706 --> 00:40:29,000
+(Demnar)
+You’re also...
+
+700
+00:40:29,083 --> 00:40:31,586
+a valuable worker who will carry
+the future of Venus
+
+701
+00:40:31,669 --> 00:40:32,503
+Heh.
+
+702
+00:40:32,587 --> 00:40:35,006
+More importantly, the young master would grieve.
+
+703
+00:40:35,590 --> 00:40:41,012
+I ain't planning on dying,
+and I ain't planning on letting anyone else die either.
+
+704
+00:40:41,846 --> 00:40:44,641
+I'm gonna settle everything
+I left unfinished here...
+
+705
+00:40:45,141 --> 00:40:47,644
+and from there on out,
+all that's left is moving forward!
+
+706
+00:40:48,269 --> 00:40:51,564
+Do not ever forget those words.
+
+707
+00:40:51,648 --> 00:40:54,984
+Like hell we're dying before you geezers!
+
+708
+00:40:55,068 --> 00:40:56,653
+（Sinister）Hmm~?
+
+709
+00:40:57,236 --> 00:40:59,572
+Looks like something strange
+just came into view.
+
+710
+00:40:59,656 --> 00:41:03,409
+The only strange thing here
+is your face, old man.
+
+711
+00:41:03,493 --> 00:41:05,536
+Our faces are practically identical.
+
+712
+00:41:05,620 --> 00:41:06,537
+What is it?
+
+713
+00:41:06,621 --> 00:41:08,539
+（Sinister）
+That's the ship we've been chasing.
+
+714
+00:41:08,623 --> 00:41:10,667
+We caught up to Cyclase!?
+
+715
+00:41:11,542 --> 00:41:13,378
+Let's go inform the young master.
+
+716
+00:41:18,007 --> 00:41:20,760
+What the hell is this place?
+
+717
+00:41:27,058 --> 00:41:28,935
+{\an8}（Coronal）
+The Issue family's sacred ground...
+
+718
+00:41:29,018 --> 00:41:30,436
+{\an8}Ratatoskr.
+
+719
+00:41:30,895 --> 00:41:36,234
+Apparently it's an old-style power transmission system
+that uses Ahab Reactors.
+
+720
+00:41:36,859 --> 00:41:39,862
+Lond Bron, who took Cature with him...
+
+721
+00:41:39,946 --> 00:41:42,115
+the forces of Cyclase Myer pursuing him...
+
+722
+00:41:42,824 --> 00:41:46,577
+and Wistario and his companions
+chasing after them in turn...
+
+723
+00:41:47,078 --> 00:41:49,706
+The final battle is finally at hand!
+
+724
+00:41:51,124 --> 00:41:52,000
+Hah!
+
+725
+00:41:53,668 --> 00:41:55,962
+（Thunder rumbling）
+
+726
+00:41:56,045 --> 00:41:57,005
+（Coronal）Ugh...
+
+727
+00:41:57,088 --> 00:41:58,214
+That's...
+
+728
+00:41:59,007 --> 00:42:00,675
+Hey, that light...
+
+729
+00:42:00,758 --> 00:42:02,427
+（Sinister）Hm? Let's see...
+
+730
+00:42:02,510 --> 00:42:03,803
+There we go.
+
+731
+00:42:04,220 --> 00:42:05,430
+（Renzie）A Mobile Suit?
+
+732
+00:42:07,181 --> 00:42:08,433
+Cyclase is out there too!
+
+733
+00:42:08,933 --> 00:42:10,685
+He's caught up with Cature and the others.
+
+734
+00:42:10,768 --> 00:42:13,104
+We're heading out too, Renzie.
+
+735
+00:42:13,521 --> 00:42:15,148
+（Renzie）
+I'm ending this here and now!
+
+736
+00:42:15,231 --> 00:42:16,065
+（Door opens）
+
+737
+00:42:16,149 --> 00:42:17,442
+(Coronal）Wistario.
+(Wistario）Huh?
+
+738
+00:42:18,151 --> 00:42:19,444
+Please be careful.
+
+739
+00:42:20,069 --> 00:42:22,447
+I'll definitely bring Cature back!
+
+740
+00:42:23,156 --> 00:42:24,198
+Yes!
+
+741
+00:42:28,578 --> 00:42:29,620
+Young master...
+
+742
+00:43:26,052 --> 00:43:28,471
+Renzie Dablisco, Asmoday.
+
+743
+00:43:29,055 --> 00:43:31,224
+Wistario Afam, Hajiroboshi.
+
+744
+00:43:31,849 --> 00:43:33,434
+(Wistario）Launching!
+(Renzie）Let's go!
+
+745
+00:43:49,742 --> 00:43:52,745
+（Coronal）The reason Lond Bron
+came to Ratatoskr...
+
+746
+00:43:52,829 --> 00:43:55,123
+wasn't just to resupply.
+
+747
+00:43:55,623 --> 00:43:58,543
+It seems he also came
+to obtain...
+
+748
+00:43:58,626 --> 00:43:59,919
+a Mobile Suit passed down
+through the Issue family line.
+
+749
+00:44:00,002 --> 00:44:00,670
+Ah!
+
+750
+00:44:10,221 --> 00:44:11,222
+Kyaa!
+
+751
+00:44:12,557 --> 00:44:15,476
+To draw your bow against this Zagan...
+
+752
+00:44:16,978 --> 00:44:18,479
+Learn your place!
+
+753
+00:44:25,278 --> 00:44:26,696
+（Subordinate A）Uwaaah!
+
+754
+00:44:41,669 --> 00:44:42,587
+Hmph.
+
+755
+00:44:43,671 --> 00:44:44,839
+（Subordinate B）Ngh! Guh...
+
+756
+00:44:53,556 --> 00:44:54,640
+Gah!
+
+757
+00:45:02,148 --> 00:45:03,065
+Kyaaah!
+
+758
+00:45:05,151 --> 00:45:06,444
+（Warning alarm）
+（Wistario）Ah!
+
+759
+00:45:14,410 --> 00:45:15,244
+So you've come.
+
+760
+00:45:15,328 --> 00:45:17,413
+（Lond）Wistario Afam.
+
+761
+00:45:17,497 --> 00:45:18,748
+（Wistario）
+So it was you after all.
+
+762
+00:45:19,373 --> 00:45:21,584
+You're giving Cature back!
+
+763
+00:45:22,960 --> 00:45:24,045
+（Incoming transmission）
+
+764
+00:45:24,128 --> 00:45:25,630
+（598）Wistario!
+
+765
+00:45:26,839 --> 00:45:28,382
+I'll give you a hand!
+
+766
+00:45:33,054 --> 00:45:33,888
+（Cyclase）Well?
+
+767
+00:45:35,056 --> 00:45:36,307
+（Batch）We've arrived.
+
+768
+00:45:36,390 --> 00:45:37,683
+Beginning the operation now.
+
+769
+00:45:37,767 --> 00:45:38,601
+I'm counting on you.
+
+770
+00:45:38,684 --> 00:45:40,394
+（Warning alarm）
+（Cyclase）Hm! So they've come.
+
+771
+00:45:41,771 --> 00:45:44,148
+（Cyclase）
+We'll deal with these annoying flies.
+
+772
+00:45:44,649 --> 00:45:45,900
+（Tagging）Okaaay.
+
+773
+00:45:49,987 --> 00:45:52,657
+Yo. I've been wanting to see you.
+
+774
+00:45:53,491 --> 00:45:54,909
+（Renzie）Cyclase!
+
+775
+00:45:55,993 --> 00:45:59,914
+So you're still alive,
+Renzie Dablisco.
+
+776
+00:46:00,000 --> 00:46:02,750
+You're the one bastard I won't forgive!
+
+777
+00:46:02,833 --> 00:46:08,172
+For Andy and Bito's sake,
+I'm taking my revenge right here!
+
+778
+00:46:16,180 --> 00:46:18,683
+（Lond）I'm still not done!
+
+779
+00:46:22,353 --> 00:46:23,980
+Guh... Ghk!
+
+780
+00:46:26,065 --> 00:46:26,983
+Ngh!
+
+781
+00:46:37,076 --> 00:46:40,288
+(Lond）UOOOOOOHHHH!
+(Wistario）Ah!
+
+782
+00:46:41,872 --> 00:46:43,291
+（598）Wistario!
+
+783
+00:46:46,002 --> 00:46:47,169
+（Lond）Guh...
+
+784
+00:46:47,878 --> 00:46:52,300
+I am the one who must protect that person!
+
+785
+00:47:00,600 --> 00:47:01,851
+Gah...
+
+786
+00:47:13,112 --> 00:47:15,406
+（598）Is it... over?
+
+787
+00:47:17,867 --> 00:47:19,118
+No. Not yet.
+
+788
+00:47:19,827 --> 00:47:22,371
+Hang on, Cature! I'm coming!
+
+789
+00:47:32,965 --> 00:47:34,633
+Guh... Ah!
+
+790
+00:47:35,801 --> 00:47:37,636
+（Renzie）
+Damn it! Stop darting around!
+
+791
+00:47:37,720 --> 00:47:40,389
+Quit running away, Cyclase!
+
+792
+00:47:40,473 --> 00:47:41,557
+Hmph...
+
+793
+00:47:42,266 --> 00:47:43,392
+It's about time.
+
+794
+00:47:43,893 --> 00:47:46,896
+（Impact sound）
+（Renzie）Ah! What the hell!?
+
+795
+00:47:48,898 --> 00:47:51,651
+Looks like Batch fulfilled her role.
+
+796
+00:47:51,734 --> 00:47:54,653
+Well, we are exceptionally capable.
+
+797
+00:47:56,739 --> 00:47:58,658
+This was your doing!?
+
+798
+00:47:59,325 --> 00:48:00,159
+（Cyclase）Now then...
+
+799
+00:48:00,826 --> 00:48:03,913
+the beginning of true freedom.
+
+800
+00:48:03,996 --> 00:48:05,289
+What's happening!?
+
+801
+00:48:05,373 --> 00:48:06,415
+(Impact sound)
+(Renzie) Grrh!
+
+802
+00:48:16,467 --> 00:48:17,676
+(Coronal) Kyaah!
+
+803
+00:48:18,302 --> 00:48:19,512
+Lady Coronal!
+
+804
+00:48:19,595 --> 00:48:20,429
+Ah!
+
+805
+00:48:20,513 --> 00:48:21,931
+(Coronal) Ah!
+
+806
+00:48:23,599 --> 00:48:24,433
+That's...
+
+807
+00:48:25,059 --> 00:48:26,435
+(Coronal) The ring...
+
+808
+00:48:27,103 --> 00:48:29,188
+(Palstie)
+Is it writing data?
+
+809
+00:48:30,564 --> 00:48:33,651
+(Mendo) Ratatoskr is
+a place tied to the Issue family.
+
+810
+00:48:33,734 --> 00:48:35,194
+So this really was...
+
+811
+00:48:35,694 --> 00:48:38,239
+the sixth point.
+
+812
+00:48:38,572 --> 00:48:41,158
+(Slice)
+But why now?
+
+813
+00:48:48,165 --> 00:48:49,208
+(Pilot) Hurry!
+
+814
+00:48:49,291 --> 00:48:51,585
+{\an8}They're catching up to us!
+What happened to Captain Lond!?
+
+815
+00:48:51,669 --> 00:48:52,962
+{\an8}(Co-pilot)
+We can't contact him!
+
+816
+00:48:54,171 --> 00:48:55,714
+(Cature) Wistario...
+
+817
+00:48:58,259 --> 00:49:00,720
+(598)
+It'll be trouble if they board our ship!
+
+818
+00:49:00,803 --> 00:49:01,637
+Cature...
+
+819
+00:49:01,720 --> 00:49:03,722
+(Impact sound)
+(Wistario) Ah! What was that!?
+
+820
+00:49:19,572 --> 00:49:21,157
+(Demnar) An optical weapon?
+
+821
+00:49:21,240 --> 00:49:23,492
+(Dexter)
+Just how big is that thing?
+
+822
+00:49:26,912 --> 00:49:27,747
+(Slice) Ah!
+
+823
+00:49:27,830 --> 00:49:29,749
+What in the world is that?
+
+824
+00:49:30,416 --> 00:49:31,250
+Ah...
+
+825
+00:49:34,086 --> 00:49:35,754
+What the hell is that!?
+
+826
+00:49:54,148 --> 00:49:55,441
+It's awakened...
+
+827
+00:49:56,317 --> 00:49:58,068
+The Mobile Armor...
+
+828
+00:50:02,865 --> 00:50:05,409
+Hah! What is this thing?
+
+829
+00:50:05,493 --> 00:50:06,744
+(Sound of incoming transmission)
+(Wistario) Hm?
+
+830
+00:50:06,827 --> 00:50:10,164
+(Demnar) Young master, that thing
+is a Mobile Armor!
+
+831
+00:50:10,247 --> 00:50:12,625
+(Wistario)
+A Mobile Armor!? This is?
+
+832
+00:50:12,708 --> 00:50:14,293
+They're really this huge?
+
+833
+00:50:14,376 --> 00:50:17,296
+Sorry. A little farewell gift from Cyclase.
+
+834
+00:50:17,838 --> 00:50:19,798
+What're we gonna do, Wistario!?
+
+835
+00:50:22,009 --> 00:50:23,385
+Cature's up ahead.
+
+836
+00:50:24,053 --> 00:50:26,305
+If you're gonna stand in my way...
+
+837
+00:50:27,973 --> 00:50:29,683
+{\an8}Then I'll crush you and move on!
+
+838
+00:50:45,032 --> 00:50:46,867
+(Coronal) A Mobile Armor...
+
+839
+00:50:46,951 --> 00:50:50,955
+Unlike the wreckage from past battles,
+this one was fully intact.
+
+840
+00:50:51,455 --> 00:50:53,791
+Its destructive power
+was overwhelming.
+
+841
+00:50:53,874 --> 00:50:54,959
+(Impact sound)
+(Renzie) Guh!
+
+842
+00:50:55,459 --> 00:50:58,879
+(Coronal) The other members of the
+Urdr-Hunt also rushed in one after another...
+
+843
+00:50:59,255 --> 00:51:01,966
+and it became a battle for survival...
+
+844
+00:51:05,052 --> 00:51:06,637
+Ngh! Again!?
+
+845
+00:51:06,720 --> 00:51:08,472
+(Warning alarm)
+(Wistario) Ah!
+
+846
+00:51:14,770 --> 00:51:15,980
+(Wistario) 598!
+
+847
+00:51:16,063 --> 00:51:19,900
+Wooooooooooah!
+
+848
+00:51:23,195 --> 00:51:24,238
+Sorry to keep you waiting!
+
+849
+00:51:30,327 --> 00:51:31,245
+Drop dead!
+
+850
+00:51:31,328 --> 00:51:32,746
+(Warning alarm)
+(Tamami) Huh!?
+
+851
+00:51:37,459 --> 00:51:39,253
+Yo, brother!
+
+852
+00:51:39,336 --> 00:51:40,754
+Sorry to keep ya waiting!
+
+853
+00:51:48,470 --> 00:51:50,014
+(Wistario) Everyone!
+
+854
+00:51:50,097 --> 00:51:51,098
+Did we get it?
+
+855
+00:51:51,181 --> 00:51:52,016
+Ah...
+
+856
+00:51:53,100 --> 00:51:53,767
+Ngh!
+
+857
+00:51:58,939 --> 00:51:59,773
+(Tamami) Ah!
+
+858
+00:52:00,733 --> 00:52:01,775
+(Aiko & Roam) Whoa!
+
+859
+00:52:06,113 --> 00:52:07,531
+That's...
+
+860
+00:52:07,615 --> 00:52:09,033
+That's the main body?
+
+861
+00:52:09,116 --> 00:52:10,367
+Ngh!
+
+862
+00:52:12,870 --> 00:52:13,787
+Huh?
+
+863
+00:52:16,915 --> 00:52:18,626
+(Wistario)
+This is like back then...
+
+864
+00:52:18,709 --> 00:52:21,337
+Marcho... sias?
+
+865
+00:52:24,548 --> 00:52:26,967
+(Coronal)
+In the end, the deciding factor was...
+
+866
+00:52:27,051 --> 00:52:28,928
+once again, the activation of...
+
+867
+00:52:29,011 --> 00:52:32,932
+Hajiroboshi's mysterious
+power-up ability.
+
+868
+00:52:35,142 --> 00:52:37,811
+Ugh! Ugh! Uuuugh!
+
+869
+00:52:46,153 --> 00:52:47,571
+Ugh...
+
+870
+00:52:47,655 --> 00:52:48,572
+Ah!
+
+871
+00:52:56,538 --> 00:52:58,165
+(598) Amazing...
+
+872
+00:53:00,918 --> 00:53:03,837
+Hah... Hah... Hah...
+
+873
+00:53:11,845 --> 00:53:14,223
+Is this...
+the end?
+
+874
+00:53:14,306 --> 00:53:16,350
+Yeah... looks like it.
+
+875
+00:53:17,226 --> 00:53:19,853
+(Renzie)
+Even I can't move anymore...
+
+876
+00:53:30,197 --> 00:53:35,285
+So you weren't the freedom
+I had been searching for either...
+
+877
+00:53:36,995 --> 00:53:39,623
+Still, well...
+
+878
+00:53:43,794 --> 00:53:46,088
+(Wistario)
+That's right! What about Cature!?
+
+879
+00:53:47,214 --> 00:53:48,132
+(Coronal) Wistario!
+
+880
+00:53:48,924 --> 00:53:51,719
+The launch carrying Cature
+has been swept away!
+
+881
+00:53:51,802 --> 00:53:55,347
+At this rate, it'll be pulled
+into the lightning storm!
+
+882
+00:54:00,853 --> 00:54:02,062
+Cature!
+
+883
+00:54:02,146 --> 00:54:04,022
+Hurry, Wistario!
+
+884
+00:54:16,493 --> 00:54:17,995
+Wistario...
+
+885
+00:54:25,294 --> 00:54:26,920
+(Coronal) Lady Cature
+
+886
+00:54:37,222 --> 00:54:39,850
+(Sinister)
+16,000 meters to target!
+
+887
+00:54:39,933 --> 00:54:41,935
+(Dexter)
+Just a little more!
+
+888
+00:54:42,019 --> 00:54:43,395
+Young master...
+
+889
+00:54:45,689 --> 00:54:47,441
+Hah! Ngh!
+
+890
+00:54:50,444 --> 00:54:51,528
+Go!
+
+891
+00:54:51,612 --> 00:54:53,906
+Wistario!
+
+892
+00:55:01,246 --> 00:55:02,664
+Ah...
+
+893
+00:55:03,791 --> 00:55:05,125
+No...
+
+894
+00:55:05,209 --> 00:55:06,543
+Ngh...
+
+895
+00:55:08,295 --> 00:55:09,880
+No way...
+
+896
+00:55:10,964 --> 00:55:12,633
+(Sinister) The launch's signal...
+
+897
+00:55:12,716 --> 00:55:14,384
+has disappeared...
+
+898
+00:55:15,219 --> 00:55:18,222
+(Demnar)
+We... didn't make it...
+
+899
+00:55:20,557 --> 00:55:21,391
+Ah...
+
+900
+00:55:21,475 --> 00:55:23,227
+No! Not yet!
+
+901
+00:55:23,310 --> 00:55:24,144
+(Demnar and the others) Huh!?
+
+902
+00:55:24,228 --> 00:55:27,648
+(Signal beeping)
+
+903
+00:55:34,363 --> 00:55:35,239
+Mm...
+
+904
+00:55:40,494 --> 00:55:41,370
+Hah!
+
+905
+00:56:05,644 --> 00:56:07,771
+Cature! Why!?
+
+906
+00:56:08,188 --> 00:56:11,441
+No matter how dangerous the place was,
+you always came after me
+
+907
+00:56:12,067 --> 00:56:16,488
+So I knew...
+I had to return to you, Wistario...
+
+908
+00:56:18,407 --> 00:56:19,825
+Wistario...
+
+909
+00:56:20,367 --> 00:56:21,618
+I...
+
+910
+00:56:23,162 --> 00:56:25,831
+(Wistario) Cature!
+Let's be happy together!
+
+911
+00:56:27,332 --> 00:56:28,417
+(Cature) Yeah!
+
+912
+00:56:47,477 --> 00:56:50,314
+(Coronal)
+Lady Cature came back to us
+
+913
+00:56:51,064 --> 00:56:55,027
+And once again,
+we became one
+
+914
+00:56:58,280 --> 00:56:59,239
+Phew...
+
+915
+00:56:59,323 --> 00:57:00,741
+(Knocking)
+
+916
+00:57:00,824 --> 00:57:01,658
+Yes?
+
+917
+00:57:01,742 --> 00:57:02,576
+(Door opens)
+
+918
+00:57:02,659 --> 00:57:04,286
+(Coronal) Lady Cature
+
+919
+00:57:04,369 --> 00:57:06,163
+What were you doing?
+
+920
+00:57:06,246 --> 00:57:10,042
+I was rereading
+the journal entries I've written.
+
+921
+00:57:10,125 --> 00:57:11,293
+I see
+
+922
+00:57:11,627 --> 00:57:13,712
+Hey, want to step outside for a bit?
+
+923
+00:57:13,795 --> 00:57:15,339
+(Coronal) Heh...
+
+924
+00:57:15,422 --> 00:57:16,548
+Yes
+
+925
+00:57:17,341 --> 00:57:20,761
+(Coronal)
+What is it that people desire?
+
+926
+00:57:21,595 --> 00:57:24,181
+Within the ordinary lives
+we lived until yesterday...
+
+927
+00:57:24,264 --> 00:57:29,186
+When suddenly, an unexpected door of fate
+appears before us...
+
+928
+00:57:29,770 --> 00:57:32,189
+Our lives... our futures...
+
+929
+00:57:33,398 --> 00:57:38,403
+When beyond that door,
+we glimpse a light powerful enough
+to change everything...
+
+930
+00:57:39,988 --> 00:57:44,409
+The 100 billion Melia prize
+has yet to be claimed.
+
+931
+00:57:44,993 --> 00:57:46,203
+And yet...
+
+932
+00:57:46,662 --> 00:57:52,084
+I'm certain that something even more precious
+than immeasurable wealth lies here...
+
+933
+00:57:53,001 --> 00:57:57,130
+The irreplaceable treasure
+of the people we meet.
+
+934
+00:58:00,258 --> 00:58:01,468
+(Coronal) Here...
+
+935
+00:58:01,760 --> 00:58:05,806
+I planned to return it
+once we returned to Venus and settled in.
+
+936
+00:58:05,889 --> 00:58:08,475
+There hasn't been any reaction
+since last time, right?
+
+937
+00:58:08,558 --> 00:58:09,851
+(Coronal) Correct
+
+938
+00:58:09,935 --> 00:58:13,021
+However, "N" instructed us
+to remain on standby.
+
+939
+00:58:13,105 --> 00:58:17,025
+A message was sent directly to me
+as the navigator...
+
+940
+00:58:17,526 --> 00:58:20,362
+Then the Urdr-Hunt
+is still continuing
+
+941
+00:58:20,862 --> 00:58:22,698
+Yes. Which is why...
+
+942
+00:58:24,700 --> 00:58:27,160
+Hm? Wait, me too?
+
+943
+00:58:27,244 --> 00:58:29,746
+(Coronal) Yes
+(Wistario) Cature, hurry up!
+
+944
+00:58:34,167 --> 00:58:36,128
+We'll win the Urdr-Hunt...
+
+945
+00:58:36,211 --> 00:58:38,338
+And make our dreams come true!
+
+946
+00:58:38,422 --> 00:58:39,756
+Yeah
+
+947
+00:58:41,967 --> 00:58:43,176
+Definitely!
+
+948
+00:58:46,013 --> 00:58:48,056
+(N) Nadezhda
+
+949
+00:58:48,140 --> 00:58:51,977
+Have you determined
+the location of the final key?
+
+950
+00:58:52,060 --> 00:58:54,229
+(Nadezhda) Yes, my lord
+
+951
+00:58:54,312 --> 00:58:57,107
+However, what was revealed
+was not coordinates...
+
+952
+00:58:57,899 --> 00:58:59,860
+But a unique frequency
+
+953
+00:59:00,777 --> 00:59:02,612
+(N) Just as I thought
+
+954
+00:59:02,696 --> 00:59:04,114
+Either way...
+
+955
+00:59:04,781 --> 00:59:07,993
+This will finally bring
+the Urdr-Hunt to an end
+
+956
+00:59:12,581 --> 00:59:15,417
+(Cyclase) So... the time has come...
+
+957
+00:59:19,212 --> 00:59:21,214
+♪～
+
+958
+01:01:07,279 --> 01:01:09,281
+～♪
+
+959
+01:01:11,366 --> 01:01:13,368
+♪～
+
+960
+01:03:22,038 --> 01:03:24,040
+～♪
+
+960.2
+01:03:34,250 --> 01:03:38,750
+Mobile Suit Gundam: Iron-Blooded Orphans
+10th Anniversary
+
+960.4
+01:03:38,750 --> 01:03:41,700
+Wedge of Interposition
+
+961
+01:03:51,151 --> 01:03:54,529
+(Mikazuki) Phew...
+
+962
+01:03:56,740 --> 01:04:01,161
+(Ahab Reactor whirring)
+
+963
+01:04:18,762 --> 01:04:19,804
+(Shino) Mmm...
+
+964
+01:04:20,805 --> 01:04:21,806
+(Sniffing)
+
+965
+01:04:21,890 --> 01:04:26,102
+(Shino) When Barbatos fights,
+it smells like money
+
+966
+01:04:26,186 --> 01:04:29,856
+(Eugene) Tekkadan's gonna get
+even bigger now
+
+967
+01:04:33,985 --> 01:04:36,571
+(Akihiro) Tch, I still think I should've...
+
+
+969
+01:04:36,655 --> 01:04:38,073
+(Yukinojo) Don't be stupid.
+
+970
+01:04:38,740 --> 01:04:41,493
+(Yukinojo) It's because you and Gusion
+are standing by...
+
+971
+01:04:41,576 --> 01:04:43,578
+that Mikazuki can fight so recklessly.
+
+972
+01:04:44,829 --> 01:04:45,830
+Besides...
+
+973
+01:04:45,914 --> 01:04:48,166
+(Ride) Whoa...
+(Yukinojo) It's already over.
+
+974
+01:04:48,249 --> 01:04:49,709
+Huh?
+
+975
+01:04:49,793 --> 01:04:50,627
+Ah!
+
+976
+01:04:50,710 --> 01:04:56,132
+(Battle sounds)
+
+977
+01:04:56,216 --> 01:04:57,258
+(Boss) Tch...
+
+978
+01:05:02,972 --> 01:05:04,349
+(Pilot A)
+Damn it, quit darting around!
+
+979
+01:05:04,432 --> 01:05:06,643
+Hey! Can someone
+get behind him?
+
+980
+01:05:06,726 --> 01:05:07,769
+Ah!
+
+981
+01:05:14,484 --> 01:05:16,236
+(Pilot A) Stop moving...
+(Pilot B) In front! In front!
+
+982
+01:05:16,319 --> 01:05:17,153
+Ah! Ugh!
+
+983
+01:05:19,030 --> 01:05:21,574
+(Orga) Finish 'em, Mika!
+
+984
+01:05:28,998 --> 01:05:32,419
+Ah! Ngh...
+
+985
+01:05:55,734 --> 01:05:57,193
+(Ride) Alright!
+(Shino) Alright!
+
+986
+01:05:57,277 --> 01:05:58,194
+(Akihiro) Naturally.
+
+987
+01:06:01,406 --> 01:06:02,449
+(Orga) Well then...
+
+988
+01:06:02,991 --> 01:06:07,328
+Just as requested,
+a two-on-one handicap match.
+
+989
+01:06:08,246 --> 01:06:10,206
+No complaints now, right?
+
+990
+01:06:10,290 --> 01:06:11,833
+(Boss) I get it.
+
+991
+01:06:11,916 --> 01:06:13,084
+Hey!
+
+992
+01:06:14,252 --> 01:06:16,087
+(Yamagi) Make sure everything's secured!
+
+993
+01:06:16,171 --> 01:06:18,548
+We'll handle the rest
+once we're back!
+
+994
+01:06:18,631 --> 01:06:21,551
+Tie down the smaller stuff
+with belts together!
+
+995
+01:06:21,634 --> 01:06:23,928
+If we don't hurry,
+it'll be morning already!
+
+996
+01:06:24,012 --> 01:06:25,096
+(Gunshot)
+
+997
+01:06:26,556 --> 01:06:27,849
+(Pilot A) Gah! Help...
+
+998
+01:06:27,932 --> 01:06:29,350
+(Gunshot)
+
+999
+01:06:30,310 --> 01:06:31,853
+(Ride) That's brutal...
+
+1000
+01:06:31,936 --> 01:06:35,565
+Just because they lost,
+they didn't have to kill them.
+
+1001
+01:06:35,648 --> 01:06:37,901
+(Shino) Those guys
+were pretty well-known...
+
+1002
+01:06:37,984 --> 01:06:40,945
+in mobile suit combat circles,
+weren't they?
+
+1003
+01:06:41,029 --> 01:06:44,240
+(Akihiro) Yeah, but they were
+Human Debris.
+
+1004
+01:06:44,908 --> 01:06:46,743
+That's what happens when they lose.
+
+1005
+01:06:48,411 --> 01:06:50,246
+What a rotten world.
+
+1006
+01:06:51,164 --> 01:06:54,375
+Though we're not exactly
+much better ourselves.
+
+1007
+01:06:54,459 --> 01:06:56,002
+(Mikazuki) I can still fight.
+
+1008
+01:06:56,085 --> 01:06:59,964
+Maybe you can,
+but Barbatos is screaming in pain.
+
+1009
+01:07:00,048 --> 01:07:02,926
+Yamagi! Contact Teiwaz!
+
+1010
+01:07:03,009 --> 01:07:04,886
+Make arrangements to send
+this thing to the Saisei...
+
+1011
+01:07:04,969 --> 01:07:06,304
+Not yet!
+
+1012
+01:07:08,431 --> 01:07:09,516
+Not yet.
+
+1013
+01:07:09,599 --> 01:07:11,976
+(Yamagi)
+You don't want me to contact them?
+
+1014
+01:07:12,060 --> 01:07:13,520
+(Yukinojo) Hah...
+
+1015
+01:07:13,603 --> 01:07:16,147
+Yeah, leave it be!
+
+1016
+01:07:16,981 --> 01:07:18,024
+That guy...
+
+1017
+01:07:18,107 --> 01:07:22,445
+(Yukinojo)
+Can't be helped.
+Guess we'll just have them send more weapons again.
+
+1018
+01:07:22,529 --> 01:07:26,115
+(Mikazuki)
+Tell them to send something better this time.
+
+1019
+01:07:26,491 --> 01:07:28,993
+(Yukinojo)
+Teiwaz got a kick out of...
+
+1020
+01:07:29,077 --> 01:07:31,538
+the combat data from that katana of yours.
+
+1021
+01:07:31,621 --> 01:07:34,415
+That's why they only send those now.
+
+1022
+01:07:34,499 --> 01:07:37,418
+Besides, with Barbatos in its current state...
+
+1023
+01:07:37,502 --> 01:07:42,048
+if you tried swinging around a huge mace,
+it'd fall apart.
+
+1024
+01:07:42,131 --> 01:07:43,341
+(Mikazuki) Mm...
+
+1025
+01:07:43,675 --> 01:07:46,344
+(President)
+Then please sign here.
+
+1026
+01:07:48,263 --> 01:07:49,097
+(Orga) Mm...
+
+1027
+01:07:59,190 --> 01:08:00,233
+Will this do?
+
+1028
+01:08:01,901 --> 01:08:03,820
+(Employee)
+Yes, no problems here.
+
+1029
+01:08:03,903 --> 01:08:04,737
+(Orga) Good.
+
+1030
+01:08:05,321 --> 01:08:07,532
+Then the deal's settled.
+
+1031
+01:08:07,615 --> 01:08:12,078
+Your miners will be working
+under our umbrella from now on.
+
+1032
+01:08:12,579 --> 01:08:14,414
+(President)
+Tekkadan...
+
+1033
+01:08:14,497 --> 01:08:17,083
+It's great that business is going well, but...
+
+1034
+01:08:17,166 --> 01:08:22,839
+you shouldn't think
+this kind of business will last forever.
+
+1035
+01:08:27,802 --> 01:08:30,179
+(Eugene)
+Like we need him to tell us that.
+
+1036
+01:08:30,263 --> 01:08:31,806
+Now, now...
+
+1037
+01:08:31,890 --> 01:08:35,059
+Let the losers bark all they want.
+
+1038
+01:08:35,143 --> 01:08:35,977
+Right?
+
+1039
+01:08:36,060 --> 01:08:37,478
+(Orga) Hm?
+
+1040
+01:08:38,146 --> 01:08:39,063
+Mm...
+
+1041
+01:08:39,147 --> 01:08:40,106
+(Atra) Mikazuki!
+(Orga) Ah!
+
+1042
+01:08:40,189 --> 01:08:42,150
+(Atra) Want another helping?
+(Orga) Ah, sorry. What is it?
+
+1043
+01:08:42,233 --> 01:08:43,651
+(Mikazuki) Yeah.
+(Shino) Ah...
+
+1044
+01:08:43,735 --> 01:08:46,112
+(Shino)
+Looks like you're pretty busy.
+
+1045
+01:08:46,195 --> 01:08:49,782
+(Orga)
+Ah, yeah.
+I've got some homework from the young lady...
+
+1046
+01:08:49,866 --> 01:08:50,742
+Ah!
+
+1047
+01:08:50,825 --> 01:08:53,161
+Crap! I'm already late for...
+
+1048
+01:08:53,244 --> 01:08:54,996
+(Atra) Ah, your food!
+(Orga) I'll eat later!
+
+1049
+01:08:55,079 --> 01:08:56,372
+(Ride) Hey, Boss!
+
+1050
+01:08:56,456 --> 01:08:57,540
+What?!
+
+1051
+01:08:58,041 --> 01:09:01,002
+(Ride)
+Um... there's a hole in your pants.
+
+1052
+01:09:01,085 --> 01:09:02,879
+(Akihiro) In the butt.
+(Orga) Ah!
+
+1053
+01:09:02,962 --> 01:09:05,632
+(Atra)
+Ah, I can sew it up right away.
+Just leave it out for me...
+
+1054
+01:09:05,715 --> 01:09:06,549
+(Orga) No!
+
+1055
+01:09:06,633 --> 01:09:09,052
+It's fine. I'm in a hurry.
+
+1056
+01:09:11,679 --> 01:09:12,847
+(Eugene)
+Seriously...
+
+1057
+01:09:12,931 --> 01:09:15,558
+Orga already knows that
+without being told.
+
+1058
+01:09:15,642 --> 01:09:17,477
+(Shino)
+Yeah, about the hole in his ass?
+
+1059
+01:09:17,560 --> 01:09:19,312
+(Eugene)
+The business, idiot! The business!
+
+1060
+01:09:19,395 --> 01:09:22,482
+(Shino)
+That it can't keep going like this forever?
+
+1061
+01:09:22,565 --> 01:09:25,735
+(Akihiro)
+Orga's working hard
+to make sure it does last.
+
+1062
+01:09:25,818 --> 01:09:29,280
+(Shino)
+Yeah, hard enough
+not to notice the hole in his ass.
+
+1063
+01:09:29,364 --> 01:09:30,823
+(Eugene)
+I know that already.
+
+1064
+01:09:33,076 --> 01:09:35,078
+He's our representative...
+
+1065
+01:09:35,161 --> 01:09:38,581
+doing his best
+with this unfamiliar business stuff.
+
+1066
+01:09:39,624 --> 01:09:43,086
+(Ride)
+Yeah, but if our representative's
+walking around with a hole like that...
+
+1067
+01:09:43,169 --> 01:09:44,796
+that's not very cool.
+
+1068
+01:09:44,879 --> 01:09:48,091
+Ah! I know!
+I've got a great idea!
+
+1069
+01:09:48,174 --> 01:09:49,801
+(Mikazuki)
+A great idea?
+
+1070
+01:09:51,386 --> 01:09:52,971
+(Kudelia)
+I'm impressed.
+
+1071
+01:09:53,513 --> 01:09:56,182
+(Kudelia)
+There are still some issues here and there, but...
+
+1072
+01:09:56,265 --> 01:09:57,100
+Mm-hm.
+
+1073
+01:09:57,684 --> 01:09:59,811
+You seem to understand it now.
+
+1074
+01:09:59,894 --> 01:10:02,939
+So you really did read
+the materials I gave you.
+
+1075
+01:10:03,022 --> 01:10:04,607
+(Orga)
+Hmph.
+You're the one...
+
+1076
+01:10:04,691 --> 01:10:06,567
+who told me to read them, young lady.
+
+1077
+01:10:06,651 --> 01:10:08,361
+(Kudelia)
+And besides...
+(Orga) Hey!
+
+1078
+01:10:09,278 --> 01:10:11,823
+(Kudelia)
+You've improved quite a bit.
+
+1079
+01:10:13,199 --> 01:10:15,493
+You were the one who told me...
+
+1080
+01:10:15,576 --> 01:10:17,495
+people would look down on me
+if I didn't have a proper signature.
+
+1081
+01:10:18,037 --> 01:10:22,875
+Seriously, why do official contracts
+need handwritten signatures anyway?
+
+1082
+01:10:22,959 --> 01:10:25,920
+I'd never even held a pen before.
+
+1083
+01:10:26,003 --> 01:10:29,382
+But now you can write
+such a wonderful signature.
+
+1084
+01:10:29,465 --> 01:10:32,010
+(Orga) Mm... Mmm...
+
+1085
+01:10:32,593 --> 01:10:34,721
+(Kudelia)
+As expected of the Commander.
+
+1086
+01:10:34,804 --> 01:10:37,348
+Ah, come to think of it,
+it's getting pretty late.
+
+1087
+01:10:37,432 --> 01:10:39,142
+(Orga)
+Maybe we should grab a bite...
+(Knock)
+
+1088
+01:10:39,225 --> 01:10:40,685
+Yeah, come in.
+
+1089
+01:10:41,644 --> 01:10:43,563
+(Yamagi)
+Um, Commander...
+
+1090
+01:10:43,646 --> 01:10:47,483
+Everyone said to come to the
+cafeteria once you're done here.
+
+1091
+01:10:47,942 --> 01:10:49,152
+(Both)
+Hm?
+
+1092
+01:10:54,782 --> 01:10:57,160
+(Orga)
+Ah... Ah...
+
+1093
+01:10:57,243 --> 01:10:59,328
+F... For me?
+
+1094
+01:10:59,412 --> 01:11:01,122
+It's a present from all of us.
+
+1095
+01:11:01,205 --> 01:11:03,207
+(Akihiro)
+"All of us?"
+(Shino) Uh...
+
+1096
+01:11:03,291 --> 01:11:05,960
+(Shino)
+C'mon, don't sweat the details.
+
+1097
+01:11:06,043 --> 01:11:08,546
+(Kudelia)
+My! What a wonderful suit!
+
+1098
+01:11:08,629 --> 01:11:11,090
+You should try it on, Commander!
+
+1099
+01:11:11,174 --> 01:11:12,008
+Wow...
+
+1100
+01:11:12,091 --> 01:11:14,260
+O... Okay...
+
+1101
+01:11:14,343 --> 01:11:16,345
+(Clothes rustling)
+
+1102
+01:11:22,435 --> 01:11:26,105
+(All)
+Ooooh!
+
+1103
+01:11:26,189 --> 01:11:27,356
+(Atra)
+You look awesome!
+
+1104
+01:11:27,440 --> 01:11:28,733
+(Kudelia)
+It suits you perfectly!
+
+1105
+01:11:28,816 --> 01:11:30,610
+(Yamagi)
+You look smart.
+
+1106
+01:11:30,693 --> 01:11:33,738
+(Eugene)
+Yeah, seriously.
+Fits you perfectly too.
+
+1107
+01:11:33,821 --> 01:11:35,490
+(Mikazuki)
+Mm-hm, mm-hm.
+
+1108
+01:11:35,573 --> 01:11:38,201
+(Ride)
+You look super strong or something!
+
+1109
+01:11:38,284 --> 01:11:39,368
+(Shino)
+Seriously!
+
+1110
+01:11:39,452 --> 01:11:41,370
+(Orga)
+This feels really weird.
+
+1111
+01:11:42,872 --> 01:11:45,374
+But... thanks.
+
+1112
+01:11:45,458 --> 01:11:47,877
+(All)
+Heh... Hahahaha...
+
+1113
+01:11:47,960 --> 01:11:50,505
+(Eugene)
+Hey, Orga,
+turn around for us.
+
+1114
+01:11:50,588 --> 01:11:52,089
+(Orga)
+Huh? L... Like this?
+
+1115
+01:11:52,173 --> 01:11:54,467
+(Shino)
+Bwahahaha!
+Looking good, Orga!
+
+1116
+01:11:54,550 --> 01:11:56,928
+(Ride)
+So cool, Commander!
+
+1117
+01:11:57,011 --> 01:12:00,890
+(All) Hahahahaha...
+(Ride) Woo!
+
+1118
+01:12:02,225 --> 01:12:03,059
+(Atra)
+Hey...
+
+1119
+01:12:03,142 --> 01:12:05,561
+Is this how you're supposed
+to tie a necktie?
+
+1120
+01:12:05,645 --> 01:12:08,147
+It does feel like
+something's off...
+
+1121
+01:12:08,231 --> 01:12:09,816
+Ah... wasn't it like this?
+
+1122
+01:12:09,899 --> 01:12:11,150
+(Orga) Ghk!
+(Yamagi) Hey, Shino, idiot...
+
+1123
+01:12:11,234 --> 01:12:12,068
+What are you doing?!
+
+1124
+01:12:12,151 --> 01:12:13,319
+(Orga)
+Hey! Ghk...
+
+1125
+01:12:13,402 --> 01:12:16,823
+(Eugene)
+Man, that looks awful.
+Let me see it.
+
+1126
+01:12:16,906 --> 01:12:18,324
+It suits him.
+
+1127
+01:12:18,407 --> 01:12:21,828
+Yeah. That's Orga's new weapon.
+
+1128
+01:12:22,912 --> 01:12:24,789
+Maybe you need one too.
+
+1129
+01:12:24,872 --> 01:12:25,706
+(Mikazuki)
+Hm?
+
+1130
+01:12:26,666 --> 01:12:28,501
+(Akihiro)
+You should rely on us sometimes.
+
+1131
+01:12:29,585 --> 01:12:32,713
+Or what?
+Are we that unreliable?
+
+1132
+01:12:34,382 --> 01:12:35,591
+Not sure.
+
+1133
+01:12:35,675 --> 01:12:37,552
+Hey... you...
+
+1134
+01:12:37,635 --> 01:12:38,761
+(Ride)
+Hey, Boss...
+
+1135
+01:12:38,845 --> 01:12:41,848
+If you're wearing that,
+you don't need this anymore, right?
+
+1136
+01:12:42,431 --> 01:12:44,058
+Give it to me!
+
+1137
+01:12:44,141 --> 01:12:47,353
+(Orga) You're still too young for that.
+(Ride) Heh... eheh...
+
+1138
+01:12:47,436 --> 01:12:50,898
+Maybe when you get a little bigger.
+
+1139
+01:12:50,982 --> 01:12:53,317
+(Ride) You really mean it?
+(Orga) Yeah, I do.
+
+1140
+01:12:53,401 --> 01:12:57,446
+(Orga)
+The only one I can trust
+with my back on the battlefield is Akihiro.
+
+1141
+01:12:57,530 --> 01:12:58,614
+(Akihiro)
+Hmph...
+
+1142
+01:13:05,580 --> 01:13:08,624
+(Footsteps)
+
+1143
+01:13:08,708 --> 01:13:09,876
+(Orga)
+So...
+
+1144
+01:13:09,959 --> 01:13:12,587
+So you're finally taking
+it to the Saisei, huh?
+
+1145
+01:13:13,296 --> 01:13:15,464
+(Mikazuki)
+Akihiro said he'd handle it.
+
+1146
+01:13:16,173 --> 01:13:17,383
+(Orga)
+I see.
+
+1147
+01:13:18,176 --> 01:13:20,887
+Well, I've got a new weapon too.
+
+1148
+01:13:22,346 --> 01:13:23,848
+We'll be fine.
+
+1149
+01:13:23,931 --> 01:13:26,017
+(Mikazuki)
+Yeah... and...
+
+1151
+01:13:26,100 --> 01:13:31,022
+I've got a few things I want to
+say directly to the Teiwaz guys over there.
+
+1152
+01:13:31,522 --> 01:13:33,524
+(Orga)
+Got a complaint or something?
+
+1153
+01:13:35,526 --> 01:13:38,738
+I'm sick of that pain in
+the ass katana thing.
+
+1154
+01:13:38,821 --> 01:13:42,617
+It looks cool when you use it, though.
+
+1155
+01:13:42,700 --> 01:13:45,328
+But it's useless in group battles...
+
+1156
+01:13:45,786 --> 01:13:50,833
+and more than anything,
+it's not enough to clear your path, Orga.
+
+1157
+01:13:52,084 --> 01:13:54,337
+Heh... I see.
+
+1158
+01:13:56,047 --> 01:13:59,091
+(Mikazuki)
+To see the place you're aiming for...
+
+1159
+01:14:00,760 --> 01:14:05,056
+I have to keep giving everything I've got.
+
+1160
+01:14:05,514 --> 01:14:06,349
+(Orga)
+Yeah.
+
+1161
+01:14:07,350 --> 01:14:08,601
+I'll show you...
+
+1162
+01:14:09,477 --> 01:14:13,230
+All kinds of great things.
+For all of you.
+
+1163
+01:14:13,314 --> 01:14:14,231
+(Mikazuki)
+Yeah.
+
+1164
+01:14:14,315 --> 01:14:16,317
+♪～
+
+1165
+01:14:19,862 --> 01:14:21,864
+♪ Raise your flag
+
+1166
+01:14:21,948 --> 01:14:23,532
+♪ With all your voice
+
+1167
+01:14:23,616 --> 01:14:25,201
+♪ With all your voice
+
+1168
+01:14:25,284 --> 01:14:28,454
+♪ Shout it out loud with all your voice
+
+1169
+01:14:28,537 --> 01:14:30,164
+♪ One day
+
+1170
+01:14:30,248 --> 01:14:31,832
+♪ Someday somewhere
+
+1171
+01:14:31,916 --> 01:14:37,588
+♪ Dream on as we wander
+
+1172
+01:14:37,672 --> 01:14:40,967
+♪ Under pressure
+You are waiting for directions
+
+1173
+01:14:41,050 --> 01:14:44,220
+♪ Going on the road
+Without your mind
+
+1174
+01:14:44,303 --> 01:14:47,556
+♪ All misleads they give
+Ignoring our decisions
+
+1175
+01:14:47,640 --> 01:14:50,851
+♪ Killing yourself your soul
+we have inside
+
+1176
+01:14:50,935 --> 01:14:54,146
+♪ Continue the struggle
+and feel like you're discouraged
+
+1177
+01:14:54,230 --> 01:14:57,441
+♪ Rise up again to run to the end
+
+1178
+01:14:57,525 --> 01:14:59,193
+♪ In between
+
+1179
+01:14:59,276 --> 01:15:00,778
+♪ The never ending dream
+
+1180
+01:15:00,861 --> 01:15:06,284
+♪ We can struggle and muzzle
+the world before it fades away
+
+1181
+01:15:06,367 --> 01:15:08,285
+♪ Raise your flag
+
+1182
+01:15:08,369 --> 01:15:09,912
+♪ With all your voice
+
+1183
+01:15:09,996 --> 01:15:11,539
+♪ With all your voice
+
+1184
+01:15:11,622 --> 01:15:14,834
+♪ Shout it out loud with all your voice
+
+1185
+01:15:14,917 --> 01:15:16,502
+♪ One day
+
+1186
+01:15:16,585 --> 01:15:18,170
+♪ Someday somewhere
+
+1187
+01:15:18,254 --> 01:15:21,382
+♪ Believing that we will reach that goal
+
+1188
+01:15:21,465 --> 01:15:23,009
+♪ Come on and raise your flag
+
+1189
+01:15:23,092 --> 01:15:24,760
+♪ So just raise your flag
+
+1190
+01:15:24,844 --> 01:15:28,097
+♪ No matter how many times
+we feel defeated or lost
+
+1191
+01:15:28,180 --> 01:15:29,682
+♪ As long as we breathe
+
+1192
+01:15:29,765 --> 01:15:31,392
+♪ As long as we carry on
+
+1193
+01:15:31,475 --> 01:15:37,481
+♪ Dream on as we wander
+
+1194
+01:15:41,152 --> 01:15:43,154
+~♪
+
+1195
+01:15:44,613 --> 01:15:46,615
+♪～
+
+1196
+01:15:50,000 --> 01:15:53,000
+Translation, Editing, Re-Timing
+Drakanwolf
+
+1197
+01:15:55,000 --> 01:15:58,000
+QA Check
+TeknoMonkey
+
+1198
+01:18:16,849 --> 01:18:18,851
+~♪
